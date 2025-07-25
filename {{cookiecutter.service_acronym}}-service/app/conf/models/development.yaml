@@ -1,0 +1,25 @@
+Classifier:
+  Enabled: True
+  Model: "classifier"
+  OCR: "azure_layout"
+  url:
+    v1: "http://20.198.79.211:8037/C{{cookiecutter.service_acronym}}/v1/document/"
+Digitizer:
+  Enabled: True
+  Model: "digitizer"
+  OCR: "azure_layout"
+  url:
+    v1: "http://20.198.79.211:8036/document/"
+OCR:
+  Dev_Saver: False
+  Default: "azure_layout"
+  Azure_Layout:
+    endpoint: "https://bm-form.cognitiveservices.azure.com/formrecognizer/v2.1/layout/analyze"
+    Key: "d4379cb807734cf0ad2bac054f0f5834"
+    pole_tries: 10
+    pole_wait_secs: 10
+  Azure_Invoice:
+    endpoint: "https://bm-form.cognitiveservices.azure.com/formrecognizer/v2.1-preview.3/prebuilt/invoice/analyze?includeTextDetails=true"
+    Key: "d4379cb807734cf0ad2bac054f0f5834"
+    pole_tries: 10
+    pole_wait_secs: 10

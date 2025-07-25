@@ -1,0 +1,3259 @@
+TestCategory,Standard_Test_name,Synonym
+Bloodtest,Erythrocyte Sedimentation Rate ,esr
+Bloodtest,abnormalilities of erythrocytes,abnormalilities of erythrocytes
+Bloodtest,abnormalilities of leucocytes,abnormalilities of leucocytes
+Bloodtest,Absolute basophil Count,absolute basophil count
+Bloodtest,Absolute basophil Count,basophils - absolute count
+Bloodtest,Absolute Eosinophil Count,absolute eosinophil count
+Bloodtest,Absolute Lymphocyte Count,absolute lymphocyte count
+Bloodtest,Absolute monocyte Count,absolute monocyte count
+Bloodtest,Absolute Neutrophil Count,absolute neutrophil count
+Urine Routine,Acetone,acetone
+Urine Routine,acidity (pH),acidity (ph)
+Urine Routine,Acidity (pH),ph
+Bloodtest,Actual Bicarbonates (HCO3),actual bicarbonates
+Liver Function Test,alanine aminotransferase,alanine aminotransferase
+Liver Function Test,alanine aminotransferase,alaline transaminase
+Liver Function Test,alanine aminotransferase,alt
+Liver Function Test,alanine aminotransferase,alt/sgpt
+Liver Function Test,alanine aminotransferase,sgpt
+Liver Function Test,alanine aminotransferase,alt serum
+Liver Function Test,Albumin,albumin
+Liver Function Test,Albumin,albumin - serum
+Liver Function Test,Albumin/Globulin ratio,ag ratio
+Liver Function Test,Albumin/Globulin ratio,albumin/globulin ratio
+Liver Function Test,Albumin/Globulin ratio,alb:glo
+Liver Function Test,alkaline aminotransferase,alkaline aminotransferase
+Liver Function Test,Alkaline Phosphatase,alkaline phosphatase
+Liver Function Test,Alkaline Phosphatase,alp
+Liver Function Test,alkaline phosphatase,alkaline phosphatase - serum
+Urine Routine,Amorphous Debris,amorphous material
+Urine Routine,Amorphous Debris,amorphous
+Urine Routine,Amorphous Debris,amorphous debris
+Urine Routine,Amorphous Debris,amorphous deposit
+Urine Routine,amount,amount
+Urine Routine,amount,quantity
+Serology,Anti HCV,anti hcv
+Serology,Anti HCV,anti hepatitis c virus
+Urine Routine,Appearance,appearance
+Liver Function Test,Aspartate Aminotransferase ,asparate transaminase
+Liver Function Test,Aspartate Aminotransferase ,aspartate aminotransferase 
+Liver Function Test,Aspartate Aminotransferase ,aspartate aminotransferase (ast/sgot)
+Liver Function Test,Aspartate Aminotransferase ,sgot
+Liver Function Test,Aspartate Aminotransferase ,ast
+Liver Function Test,Aspartate Aminotransferase ,ast serum
+Liver Function Test,ast/alt ratio,ast/alt ratio
+Liver Function Test,ast/alt ratio,sgot/sgpt ratio
+Diabetes,average glucose value for the last 3 months,average glucose value for the last 3 months
+Urine Routine,Bacteria,bacteria
+Urine Routine,Bile Pigment,bile pigment
+Urine Routine,bile salt,bile salt
+Urine Routine,nitrites,nitrites
+Bloodtest,Base Excess (Be),base excess
+Complete Blood Count,Basophils,basophils
+Electrolytes,Bicarbonate,bicarbonate
+Electrolytes,Bicarbonate,hco3
+Urine Routine,Urine Bilirubin,urine bilirubin
+Liver Function Test,Direct Bilirubin,direct bilirubin
+Liver Function Test,Direct Bilirubin,serum bilirubin direct
+Liver Function Test,Direct Bilirubin,conjugated bilirubin
+Urine Routine,blood,blood
+Diabetes,Random Blood Sugar,random blood sugar
+Diabetes,Random Blood Sugar,random blood glucose
+Diabetes,Random Blood Sugar,rbs
+Diabetes,Fasting blood sugar,fasting blood sugar
+Diabetes,Fasting blood sugar,fbs
+Diabetes,Fasting blood sugar,fasting blood glucose
+Renal Function Test,Blood Urea,blood urea
+Renal Function Test,Blood Urea,serum urea
+Renal Function Test,Blood Urea Nitrogen,bun
+Renal Function Test,Blood Urea Nitrogen,blood urea nitrogen
+Renal Function Test,bun/creatinine ratio,bun/creatinine ratio
+Electrolytes,Calcium,calcium
+Electrolytes,Calcium,ca
+Liver Function Test,Calcium,calcium serum
+Urine Routine,calcium oxalates,calcium oxalates
+Urine Routine,Casts,casts
+Urine Routine,casts & crystals,casts & crystals
+Electrolytes,Chloride,chloride
+Electrolytes,Chloride,cl
+Liver Function Test,Chloride,chloride - serum
+Lipid Profile,Cholesterol,cholestrol
+Lipid Profile,Cholesterol,total cholesterol
+Lipid Profile,Cholesterol,s.cholestrol
+Lipid Profile,Cholesterol,cholesterol - serum
+Lipid Profile,Cholesterol/HDL Ratio,chol/hdl ratio
+Lipid Profile,Cholesterol/HDL Ratio,cholesterol/hdl ratio
+Urine Routine,clarity,clarity
+Urine Routine,Colour,colour
+Urine Routine,Cotinine,cotinine
+Liver Function Test,Creatinine,creatinine
+Liver Function Test,Creatinine,creatinine - serum
+Urine Routine,Crystals,crystals
+Vitamin B12,Vitamin B12,cyanocobalamin
+Vitamin B12,Vitamin B12,vit b12
+Vitamin B12,Vitamin B12,vitamin b12
+Vitamin B12,Vitamin B12,cyanocobalamin serum
+Urine Routine,cyst,cyst
+Pathogen Test,Dengue Fever Antigen,dengue fever antigen 
+Urine Routine,Deposit,deposit
+Lipid Profile,LDL,ldl
+Lipid Profile,LDL,low density lipoprotein
+Lipid Profile,LDL,ldl cholesterol
+Renal Function Test,EGFR,egfr
+Renal Function Test,EGFR,estimated glomerular filteration rate
+Complete Blood Count,Eosinophils,eosinophils
+Urine Routine,Epithelial Cells,epithelial cells
+Bloodtest,Erythrocyte Sedimentation Rate ,erythrocyte sed rate
+Complete Blood Count,RBC,rbc
+Complete Blood Count,RBC,erythrocyte count
+Bloodtest,Erythrocyte Sedimentation Rate ,erythrocyte sedimentation rate 
+Bloodtest,Erythrocyte Sedimentation Rate ,esr at 1 hour
+Bloodtest,Erythrocyte Sedimentation Rate ,esr (1st hour)
+Complete Blood Count,RBC,erythrocytes
+Diabetes,Estimated Average Glucose,estimated average glucose
+Diabetes,Estimated Average Glucose,eag
+Stool Test,Form and Consistency,form and consistency
+Thyroid Profile,Free Tri-iodothyronine ,free tri-iodothyronine 
+Thyroid Profile,Free Tri-iodothyronine ,ft3
+Thyroid Profile,Free Tri-iodothyronine ,free t3
+Thyroid Profile,Free Thyroxine ,free thyroxine 
+Thyroid Profile,Free Thyroxine ,free t4
+Thyroid Profile,Free Thyroxine ,ft4
+Liver Function Test,gamma glutamyl transpeptidase ,gamma glutamyl transpeptidase 
+Liver Function Test,gamma glutamyl transpeptidase ,ggtp
+Liver Function Test,gamma glutamyl transpeptidase ,gamma glutamyl transpeptidase - serum
+Liver Function Test,Gamma-glutamyl Transferase ,gamma-glutamyl transferase 
+Liver Function Test,Gamma-glutamyl Transferase ,ggt
+Liver Function Test,Gamma-glutamyl Transferase ,gamma gt
+Urine Routine,Urine sugar,urine sugar
+Urine Routine,Urine sugar,urine glucose
+Diabetes,glucose fasting,glucose fasting
+Diabetes,Fasting blood sugar,"glucose fasting, plasma"
+Diabetes,Post Prandial Blood Glucose,post prandial blood glucose
+Diabetes,Post Prandial Blood Glucose,glucose post prandial(2 hours)
+Diabetes,Post Prandial Blood Glucose,ppbs
+Diabetes,Glycosylated Haemoglobin,glycosylated haemoglobin
+Diabetes,Glycosylated Haemoglobin,hba1c
+Complete Blood Count,Haemoglobin,haemoglobin
+Complete Blood Count,Haemoglobin,hb
+Complete Blood Count,Haemoglobin ,hemoglobin
+Complete Blood Count,Haemoglobin ,hb%
+Serology,Hepatitis B Surface Antigen,hbsag
+Serology,Hepatitis B Surface Antigen,hbsag- hepatitis b surface antigen
+Lipid Profile,HDL,hdl
+Lipid Profile,HDL,high density lipoprotein
+Lipid Profile,HDL,hdl cholesterol
+Lipid Profile,hdl/ldl,hdl/ldl
+Lipid Profile,hdl/ldl,hdl ldl ratio
+Complete Blood Count,Hematocrit,hct
+Complete Blood Count,Hematocrit,pcv
+Complete Blood Count,Hematocrit,packed cell volume
+Complete Blood Count,Hematocrit,hematocrit
+Complete Blood Count,Hematocrit,haematocrit
+Serology,Hepatitis B Surface Antigen,hepatitis b surface antigen
+Serology,HIV,hiv
+Serology,HIV,hiv antibody i & ii
+Serology,HIV,hiv i & ii 
+Serology,HIV,hiv 1 & 2
+Serology,HIV,hiv i & ii ab - elisa
+Serology,HIV,hiv i & ii anti bodies
+Bloodtest,Immature Cells,immature cells
+Bloodtest,immature granulocytes ,immature granulocytes 
+Liver Function Test,indirect bilirubin,indirect bilirubin
+Liver Function Test,indirect bilirubin,serum bilirubin indirect
+Liver Function Test,indirect bilirubin,unconjugated bilirubin
+Urine Routine,Ketone,ketone
+Urine Routine,Ketone,ketone bodies
+Bloodtest,lactate dehydrogenase,lactate dehydrogenase
+Bloodtest,lactate dehydrogenase,ldh
+Lipid Profile,ldl/hdl ratio,ldl/hdl ratio
+Lipid Profile,ldl/hdl ratio,ldl hdl ratio
+Complete Blood Count,Total Leucocyte Count,total leucocyte count
+Complete Blood Count,Total Leucocyte Count,leucocyte count
+Complete Blood Count,Total Leucocyte Count,wbc count
+Complete Blood Count,Total Leucocyte Count,total wbc
+Urine Routine,Leucocytes,leucocytes
+Urine Routine,Leucocytes,wbc
+Complete Blood Count,Lymphocyte,lymphocyte
+Complete Blood Count,Absolute Lymphocyte Count,lymphocytes - absolute count
+Electrolytes,Magnesium,magnesium
+Electrolytes,Magnesium,mg
+Complete Blood Count,MCH,mch
+Complete Blood Count,MCH,mean corpuscular hemoglobin
+Complete Blood Count,MCH,mean corpuscular haemoglobin
+Complete Blood Count,MCH,mean corpuscular hb
+Complete Blood Count,MCHC,mchc
+Complete Blood Count,MCHC,mean corpuscular haemoglobin concentration
+Complete Blood Count,MCHC,mean corpuscular hemoglobin concentration
+Complete Blood Count,MCHC,mean corpuscular hb concentration
+Complete Blood Count,MCHC,mean corp.hemo.conc
+Complete Blood Count,MCV,mcv
+Complete Blood Count,MCV,mean corpuscular volume
+Complete Blood Count,MCV,mean corpuscular vol
+Complete Blood Count,MPV,mean platelet volume
+Complete Blood Count,MPV,mean platelet vol
+Bloodtest,Mentzer Index,mentzer index
+Complete Blood Count,MPV,mpv
+Urine Routine,Micro Organisms,micro organisms
+Complete Blood Count,Monocytes,monocytes
+Complete Blood Count,Absolute monocyte Count,monocytes- absolute count
+Urine Routine,mucus,mucous
+Urine Routine,mucus,mucus
+Complete Blood Count,Neutrophils,neutrophils
+Complete Blood Count,Absolute Neutrophil Count,neutrophils - absolute count
+Bloodtest,Neutrophils Lymphocyte ratio,neutrophils lymphocyte ratio
+Urine Routine,Nitrites,nitrites
+Lipid Profile,Non HDL,non hdl
+Lipid Profile,Non HDL,non high density lipoprotein
+Lipid Profile,Non HDL,non hdl cholesterol
+Urine Routine,Occult Blood,occult blood
+stool routine,Ova,ova
+Bloodtest,Oxygen Saturation ,oxygen saturation
+Bloodtest,Oxygen Saturation ,o2 saturation
+Urine Routine,Parasites,parasites
+Bloodtest,PCO2,pco2
+Bood Test,peripehral smear,peripehral smear
+stool routine,ph-stool,ph-stool
+Urine Routine,Phosphate,phosphate
+Electrolytes,Phosphorous,phosphorous
+Electrolytes,Phosphorous,p
+Electrolytes,Phosphorous,phosphorous - serum
+Complete Blood Count,Platelet Count,platelet
+Complete Blood Count,Platelet Count,platelet count
+Complete Blood Count,platelet distribution width,platelet distribution width
+Complete Blood Count,platelet distribution width,pdw
+Complete Blood Count,platelet morphology,platelet morphology
+Bloodtest,PO2,po2
+Bloodtest,Polymorphs,polymorphs
+Electrolytes,Potassium,potassium
+Electrolytes,Potassium,potassium - serum
+Electrolytes,Potassium,k
+Others,mucus,mucus strands
+Others,sugar,sugar ( f )
+Others,serum protein,total proteins
+Others,glucose fasting,"glucose fasting *, 10"
+Others,eosinophils - absolute count,absolute eosinophil count
+Others,cholesterol/hdl ratio,"ldl chol / hdl chol ratio,"
+Others,bile pigment,bile pigments : -
+Others,vldl,vldl *
+Others,mean corpuscular volume,"mcv,edta"
+Others,basophils - absolute count,basophils - absolute count
+Others,amorphous,amorphous segment
+Others,t cholesterol/hdl cholesterol ratio,t cholesterol/hdl cholesterol ratio
+Others,packed cell volume,packed cell volume ( p.c.v )
+Others,serum creatinine,serum creatinine
+Others,red blood cell count,r b c ( red blood cell count )
+Others,blood urea nitrogen,blood urea nitrogen - bun *
+Others,bun : creatinine,bun : creatinine
+Others,t.cholesterol,t.cholesterol
+Others,leucocyte count,total leaukocyte count ( tlc )
+Others,urine routine glucose,glucose
+Others,epthelail cells,epthelail cells
+Others,bacteria,bacterial
+Others,rbc count,rbc count
+Others,mchc,mean corpuscular haemoglobin ( mch )
+Others,absolute neutrophils count,absolute neutrophil count ( anc )
+Others,hba1c,hba1c value
+Others,nucleated red blood cells,nucleated red blood cells
+Others,glucose fasting,glucose - ( fasting )
+Others,hdl cholesterol,serum hdl cholesterol
+Others,red blood cells,crenated r.b.c.
+Others,urobilinogen,urobilinogen *
+Others,rbc,rbcs *
+Others,others,eosinophils
+Others,crystals,crystal : amorphous phosphate
+Others,cholestrol / hdl ratio,cholestrol / hdl ratio
+Others,egfr-creatinine and glomerular filteration rate,est. glomerular filtration rate ( egfr )
+Others,m.c.v,m.c.v
+Others,eosinophils,absolute eosinophils
+Others,free tri-iodothyronine (t3),"free t3, serum"
+Others,lymphocyte percentage,lymphocyte percentage
+Others,rbc count,rbc count *
+Others,crystals,crystal :
+Others,red cell distribution width,red cell distribution width ( rdw - cv )
+Others,volume,volume ( clu )
+Others,rh factor,rh factor
+Others,absolute monocyte count,monocyte ( m )
+Others,sugar,f.b.sugar ( god / pod )
+Others,eosinophils - absolute count,eosinophils - absolute count
+Others,hdl- cholesterol-serum,"hdl - cholesterol, serum"
+Others,red blood cells,red blood cells
+Others,red blood cells,blood group abo
+Others,gamma-glutamyl transpeptidase,ggtp
+Others,bun/creatinine ratio,urea / creatinine ratio
+Others,protein total - serum,"t3 ( total ) , serum"
+Others,leucocyte count,total leucocytic count
+Others,ldl cholesterol,s.ldl cholesterol
+Others,phosphorous,serum phosphorous
+Others,erythrocytes,ervthrocytes
+Others,erythrocyte sedimentation rate (esr),e.s.r.
+Others,hdl cholesterol direct,hdl cholesterol ( direct )
+Others,serum creatinine,bun / creatinine
+Others,vldl cholesterol,vldl cholesterol.calculated
+Others,erythrocyte sedimentation rate (esr),rate ( esr )
+Others,sgot (ast),"sgot / ast, sgpt / alt"
+Others,esr,esr(wintrobe)
+Others,ldl/hdl,ldl / hdl
+Others,triple phos,triple phos
+Others,epithelial cells,epiethelial cells
+Others,glycosylated haemoglobin,"hba1c ( glycosylated haemoglobin ) , blood"
+Others,serum creatinine,creatinine
+Others,hdl cholesterol direct,cholesterol - hdl direct
+Others,cholesterol,"total cholesterol ( cho ) ,"
+Others,ldl/hdl cholesterol ratio,"total cholesterol / hdl ratio, ldl / hdl cholesterol ratio"
+Others,red cell distribution width,red cell distribution width ( rdw )
+Others,leucocytes,total leucocytes ( wbc )
+Others,thyroid stimulating hormone (tsh),thyroid stimulating hormone ( tsh )
+Others,leucocyte count,"wbc / tlc ( total leucocyte, rbc"
+Others,reaction,reaction & ph
+Others,erythrocyte sedimentation rate (esr) (1 hr),"esr ( * westergren, 1 hr. )"
+Others,erythrocyte sedimentation rate (esr),"esr [ westergren ] , na - citrate"
+Others,t3,serum ft3
+Others,cholesterol total,"cholesterol, total"
+Others,fasting blood sugar (plasma),fasting blood sugar
+Others,direct ldl,ldl cholestrol
+Others,gamma-glutamyl transferase (ggt),ggt.
+Others,urea,s.urea
+Others,conjugated,direct / conjugated bilirubin : -
+Others,ketone bodies,ketone body
+Others,red blood cells,blood grouping and rh ty ping
+Others,bacteria,bacteria / hpf
+Others,leucocyte count,total leucocyte count
+Others,absolute monocyte count,"absolute neutrophil count, absolute lymphocyte count, absolute monocyte count, absolute eosinophil count"
+Others,red blood cell count,red blood cell count ( rbc )
+Others,leucocyte count,total leukocyte count ( tc )
+Others,parasites,parasites :
+Others,hba1c,hba1c *
+Others,mean corpuscular volume,mcv *
+Others,rdw-cv,rdw cv *
+Others,ketones,ketones
+Others,eosinophils,e osinophils
+Others,serum bilirubin indirect,bilirubin - indirect : -
+Others,mch,mean corpuscular haemaglobin con.
+Others,pcv / haematocrit,pcv ( haematocrit )
+Others,mean corp volume,m c v ( mean corp volume )
+Others,protein,protein *
+Others,eosinophils - absolute count,absolute eosinophil count *
+Others,urea,serumurea
+Others,p - lcr,p - lcr
+Others,hdl cholesterol,cholesterol
+Others,total count,wbc total count
+Others,total cholesterol/hdl ratio,ldl cholesterol / hdl ratio
+Others,potassium - serum,"potassium, serum"
+Others,serum bilirubin indirect,bilirubin - indirect.
+Others,abo,abo
+Others,red blood cell count,total rbc count
+Others,urea,serum urea
+Others,mch,"mch,edta"
+Others,bacteria bile pigment,bile salt / pigment
+Others,hba1c,"hba1c, glycated hemoglobin ,"
+Others,hdl,s.hdl
+Others,estimated average glucose,"estimated average glucose ( eag ) ,"
+Others,sodium,serum sodium ( na )
+Others,alkaline phosphatase,alkaline phosphatase ( alp )
+Others,leucocyte count,total leukocyte count ( tlc )
+Others,ldl cholesterol,ldl cholesterol
+Others,blood group,rh grouping
+Others,ldl cholesterol direct,ldl cholesterol direct
+Others,serum globulin,"globulin :, a / g ratio."
+Others,phosphate,phosphates : -
+Others,bacterial bile pigment,bilirubin bile pigment *
+Others,serum bilirubin indirect,"bilirubin ( indirect ) , serum"
+Others,blood group,blood group rh type
+Others,wbc/hpf,wbc / hpf
+Others,eosinophils - absolute count,absolute eosinophils count
+Others,immature granulocytes (ig %),immature granulocyte percentage ( ig % )
+Others,uric acid,* sr. uric acid
+Others,hematocrit,hematocrite ( hct )
+Others,red blood cells,blood group & rh type
+Others,am phos,am phos
+Others,fasting blood sugar,* fasting blood sugar
+Others,erythocyte sed.rate,erythrocyte sed.rate ( win )
+Others,mean corpuscular volume,mcv.
+Others,cholesterol total,"cholesterol - total, serum, kidney function test, liver function test"
+Others,rdw-cv,"rdw ( cv ) , edta"
+Others,"glucose fasting, plasma","glucose fasting, sod - fluoride plasma"
+Others,vldl,v.l.d.l.
+Others,red blood cells,r.b.cs
+Others,hematocrit,hematocrit - hct *
+Others,a g ratio,"a / g ratio, serum"
+Others,direct ldl,ldl cholestrol / hdl ratio
+Others,red blood cells,r.b.c.
+Others,creatinine - serum,"creatinine, serum"
+Others,pus cells,pus cells *
+Others,leucocyte count,leucocyte cells
+Others,urine glucose,urine glucose
+Others,serum bilirubin direct,bilirubin ( direct ) - serum
+Others,red blood cells,total r.b.c
+Others,platelet distribution width,"pdw,"
+Others,pcv,p.c.v.
+Others,wbc count,total wbc count
+Others,vitamin d,25 ( oh ) vitamin d
+Others,red blood cell count,total red blood cell count ( rbc )
+Others,red blood cells,r.b.c ' s
+Others,mch,m c h ( mean corp hb )
+Others,ketone/acetone,ketone *
+Others,triglyceride/hdl ratio,"triglyceride , serum"
+Others,creatiniine,serum creatinine
+Others,esr,1 st hour
+Others,rbc countt,rbc countt ( red blood corpuscle )
+Others,thyroid stimulating hormone (tsh),thyroid simulating hormone - tsh
+Others,chloride,serum chloride ( c1 )
+Others,urine protein,urine protein
+Others,red blood cells,w.b.c. count
+Others,mean blood glucose,mean blood glucose levelmean blood
+Others,red blood cells,abo blood group
+Others,red blood cells,blood
+Others,phosphorous,phosphorus
+Others,erythrocyte sedimentation rate (esr) (1 hr),esr 1 hour
+Others,tlc,tlc/wbc
+Others,t4,serum ft4
+Others,casts,cast :
+Others,triglyceride/hdl ratio,s.triglyceride
+Others,sugar f,sugar f
+Others,platelet count,platelelet count
+Others,mchc,"mchc,edta"
+Others,gamma-glutamyl transpeptidase,gama gt ( ggtp ) : -
+Others,erythrocyte sedimentation rate (esr) (1 hr),e.s.r
+Others,cholesterol total,"serum cholesterol, total"
+Others,vitamin d. 25 hydroxy,"25 - hydroxy vitamin d, serum"
+Others,serum globulin,globulin
+Others,lymphocytes - absolute count,lymphocytes %
+Others,protein,proteins
+Others,amorphous,amorphous material
+Others,erythrocyte count,erythrocyte ( rbc ) count *
+Others,serum globulin,globulin : -
+Others,sp. gravity,sp. gravity
+Others,ldl cholesterol,ldl cholesterol. calculated
+Others,alkaline phosphatase,alkali ne phosphatase ( sap )
+Others,specific gravity,"specific gravity, urine"
+Others,pcv / haematocrit,haematocrit
+Others,basophils - absolute count,absolute basophils count *
+Others,red cell distribution width,red cell distribution width - sd ( rdw - sd )
+Others,sgpt(alt),sgpt(alt)
+Others,sugar,sugar ....
+Others,red blood cells,blood group abo and rh typing
+Others,plt,plt
+Others,total rbc,total rbc
+Others,red blood cells,"blood group abo & rh , edta"
+Others,haemoglobin (hb),rbc
+Others,epithelial cells,epithelial cells *
+Others,direct ldl,direct ldl cholesterol
+Others,spermatozoa,spermatozoa :
+Others,cholesterol,s.cholestrol ( t )
+Others,mean corpuscular volume,mcv : -
+Others,haemoglobin (hb),mean cell haemoglobin ( mch )
+Others,rh typing,rh typing
+Others,mch,mch c
+Others,bacteria bile pigment,bile salts
+Others,mch,mean corpuscular hb concn. ( mchc )
+Others,vldl cholesterol,vldl cholesterol
+Others,uric acid - serum,"uric acid, serum"
+Others,plateletcrit,plateletcrit
+Others,glucose fasting,blood glucose fasting
+Others,serum bilirubin direct,bilirubin - direct
+Others,mean corp hb conc ( mchc ),mean corp hb conc ( mchc )
+Others,cholesterol/hdl ratio,ldl : hdl ratio
+Others,hba1c,hba1c
+Others,any other abnormality,any other abnormality
+Others,albumin,albumin.
+Others,total leucocyte count,t.l.c.
+Others,glucose fasting,blood glucose - fasting
+Others,uric acid,sr. uric acid
+Others,bilirubin,bilirubin
+Others,lymphocytes - absolute count,absolute lymphocytes
+Others,serum bilirubin direct,bilrubin - direct
+Others,rdw-cv,rdw ( cv )
+Others,esr,- in first hour
+Others,hematocrit,pcv / hct ( hematocrit )
+Others,ketones,kitones
+Others,hdl/ldl cholesterol,hdl / ldl cholesterol ratio
+Others,fasting blood sugar,fasting blood glucose ( fbg )
+Others,bacteria,bacteria :
+Others,sodium - serum,"sodium, serum"
+Others,bacterial bile pigment,bile salts & bile pigments
+Others,fasting blood sugar,"* fasting blood sugar,"
+Others,mean corpuscular volume,mcv :
+Others,e.s.r. ( westergreen ),e.s.r. ( westergreen )
+Others,reducing sugar,sugar ( reducing sugar )
+Others,vldl cholesterol,serum vldl cholesterol
+Others,qty,qty
+Others,bun,bun
+Others,hdl cholesterol,hdl cholesterol *
+Others,cholesterol/hdl ratio,cho / hdl ratio
+Others,blood urea nitrogen,* bun
+Others,reaction (ph),reaction ( ph )
+Others,bile salts,bile salts :
+Others,blood urea nitrogen,s . bun
+Others,mean corpuscular volume,mean corpuscular valume ( mcv )
+Others,haemoglobin,hgb
+Others,cal oxalate,cal oxalate
+Others,plateletcrit,plateletcrit ( pct )
+Others,erythrocyte sedimentation rate (esr),"esr, edta wb"
+Others,ft4,serum ft4
+Others,fasting blood sugar,fasting blood sugar ( fbs )
+Others,red blood cells,blood group & rh typing *
+Others,m c h ( mean corp hb ),m c h ( mean corp hb )
+Others,vitamin d. 25 hydroxy,"vitamin d - 25 hydroxy,"
+Others,hdl cholesterol,direct hdl cholesterol
+Others,sodium,s.sodium ( na )
+Others,glycosylated haemoglobin,glycosylated hemoglobin ( hba1c )
+Others,ldl/hdl cholesterol ratio,ldl / hdl cholesterol ratio
+Others,rbc count,rbc count.
+Others,mean corp.hemo.conc,mean corp.hemo.conc ( mchc )
+Others,hyaline,hyaline cast
+Others,any other abnormalities,any other abnormalities
+Others,sgpt,sgpt
+Others,serum creatinine,* sr. creatinine
+Others,hdl cholesterol,hdl - cholesterol
+Others,pcv / haematocrit,"hct / haematocrit , edta"
+Others,esr,e s r (westergren method) - in first hour
+Others,serum globulin,"globulin, serum"
+Others,tlc (total leukocyte count),corrected tlc
+Others,sgot (ast),"sgot ( ast ) , serum"
+Others,colour,colour .
+Others,haemoglobin (hb),mean cell haemoglobin
+Others,indirect bilirubin,indirect / unconjugated bilirubin : -
+Others,packed cell volume,mean cell volume ( mcv ) *
+Others,erythrocyte sedimentation rate (esr),erythrocyte sedimentation rate ( esr )
+Others,sgpt,sgpt ( alat )
+Others,hdl,hdl cholesterol - direct
+Others,segmented neutrophils,segmented neutrophils
+Others,mchc,mch ( mean corpuscular haemoglobin )
+Others,thyroid stimulating hormone (tsh),tsh. serum
+Others,bilirubin direct,bilirubin direct
+Others,monocytes- absolute count,monocytes - absolute count
+Others,calcium - serum,"calcium, serum"
+Others,pcv / haematocrit,p.c.v / haematocrit
+Others,lymphocytes - absolute count,absolute lymphocytes count
+Others,thyroid stimulating hormone (tsh),tsh *
+Others,ldl,s.ldl
+Others,red blood cells,r. b. c.
+Others,glycosylated haemoglobin,glycosylated hemoglobin ( hba1c ) - whole
+Others,red blood cells,blood group
+Others,sgpt/alt,sgpt / alt : -
+Others,gamma-glutamyl transferase (ggt),gamma gt ( ggt )
+Others,serum bilirubin conjugated,conjugated ( d. bilirubin )
+Others,pus cells,pus cells.
+Others,mchc,m c h c ( mean corp hb conc )
+Others,serum creatinine,urea \ creatinine retio
+Others,urea - serum,"urea , serum"
+Others,tlc (total leukocyte count),tlc ( wbc )
+Others,blood urea nitrogen,"bun, serum"
+Others,haemoglobin (hb),hemoglobin
+Others,neutrophils - absolute count,neutrophils - absolute count
+Others,mean plasma glucose,plasma glucose ( f )
+Others,cholesterol/hdl ratio,trig / hdl ratio
+Others,hdl,high density lipoprotein ( hdl )
+Others,vitamin d 25 hydroxy,vitamin d 25 hydroxy
+Others,bacterial flora,bacterial flora
+Others,triglycerides,triglycerides *
+Others,bacterial bile pigment,bile pigments :
+Others,haemoglobin (hb),hemoglobin ( hb ) *
+Others,blood group,blood grouping
+Others,"glucose fasting, plasma",fasting plasma glucose
+Others,hb1ac,ghb a1 c
+Others,ketone/acetone,ketone body
+Others,erythrocyte count,erythrocyte ( rbc ) count
+Others,erythrocyte sedimentation rate (esr),esr ( wintrobe )
+Others,haemoglobin (hb),hemoglobin ( hb )
+Others,erythocyte sed.rate,erythrocyte sed. rate
+Others,gamma gt,"gamma gt, serum"
+Others,blood sugar,blood sugar f.
+Others,red blood cells,total r.b.c.
+Others,tlc,tlc/ wbc
+Others,red blood cells,total w.b.c.
+Others,bacterial bile pigment,bile pigments
+Others,haemoglobin (hb),haemoglobin - hb *
+Others,chloride - serum,chloride ( serum )
+Others,blood urea nitrogen,bun.
+Others,protein - total,bilrubin - total
+Others,red cell distribution width,red cell distribution width
+Others,cholesterol,"total cholesterol, triglycerides, hdl cholesterol"
+Others,blood group,abo group
+Others,triglyceride/hdl ratio,triglyceride ( tg )
+Others,glucose plasma,average estimated glucose - plasma
+Others,packed cell volume,packed cell volume ( pcv )
+Others,urea,urea
+Others,sugar,sugar :
+Others,bilirubin indirect,bilirubin indirect
+Others,nitrites,nitrite *
+Others,serum potassium,serum potassium ( k )
+Others,serum ft4,serum ft4
+Others,estimated average glucose,estimated average glucose ( eag )
+Others,red blood cell count,total rbc count ( rbc )
+Others,tsh: thyroid stimulating hormone - serum,tsh : thyroid stimulating hormone - serum
+Others,hdl cholesterol,hdl.cholesterol
+Others,yeast cells,yeast :
+Others,haemoglobin,hb a1c
+Others,haemoglobin (hb),hb ( haemoglobin )
+Others,serum bilirubin indirect,bilirubin - indirect
+Others,blood sugar,blood sugar ( f )
+Others,pus cells,leukocytes ( pus cells ) / hpf
+Others,hdl- cholesterol-serum,"hdl cholesterol, serum"
+Others,sgot (ast),sgot ( ast )
+Others,absolute neutrophils count,absolute neutrophils count
+Others,calcium,calcium.
+Others,colour,colour *
+Others,lymphocyte,lymphocyte ( l )
+Others,ldl,ldl :
+Others,pus cells,pus cells : -
+Others,total cholesterol/hdl ratio,total cholesterol / hdl cholesterol ratio
+Others,fating blood sugar (fbs),fasting blood sugar (fbs)
+Others,others,neutrophil
+Others,leucocyte count,total leucocytic count ( tlc )
+Others,sgpt/alt,serum sgpt ( alt )
+Others,red blood cells,r.b.c. :
+Others,mean corpuscular volume,mcv
+Others,urine glucose,urine for glucose
+Others,rbc count,rbc count ..
+Others,glycosylated haemoglobin,"glycosylated hemoglobin, ( hba1c ) , edta wb - cc"
+Others,absolute monocyte count,absolute monocyte count *
+Others,non hdl,non - hdl cholesterol
+Others,mch,mean corpuscular haemaglobin ( mch )
+Others,mean corp volume ( mcv ),mean corp volume ( mcv )
+Others,immature granulocytes (ig ),immature granulocytes ( ig )
+Others,vitamin d. 25 hydroxy,vitamin d ( 25 - hydroxy ) *
+Others,phosphorous - serum,"phosphorus, serum"
+Others,ldl cholesterol,"ldl cholesterol, hdl cholesterol"
+Others,hematocrit,hematocrit ( pcv )
+Others,serum uric acid,serum uric acid
+Others,ketones,urine ketones ( random )
+Others,serum bilirubin direct,"bilirubin ( direct ) , serum"
+Others,mcv ( mean corp volume ),m c v ( mean corp volume )
+Others,protein total - serum,"t4 ( total ) , serum"
+Others,leucocyte count,total leucocyte count ( tlc )
+Others,serum creatinine,s.creatinine
+Others,albumin,s.albumin.
+Others,rbcs/hpf,rbcs / hpf
+Others,pcv / haematocrit,pcv / haematrocrit
+Others,serum bilirubin total,bilirubin - total.
+Others,albumin/globulin ratio,albumin : globulin ratio : -
+Others,neutrophil/ploymorph,neutrophil ( n )
+Others,total bilirubin,total bilirubin : -
+Others,glucose fasting,"glucose fasting, cholesterol"
+Others,serum bilirubin indirect,bilirubin indirect
+Others,odour,odour
+Others,"glucose fasting, plasma","glucose ( sugar ) fasting,, fluoride plasma"
+Others,albumin/globulin ratio,a : g ratio
+Others,average glucose value for the last 3 months,glucose level for the past 3 month
+Others,blood urea nitrogen,bun ( blood urea nitrogen ) #
+Others,bilirubin total,bilirubin total
+Others,blood glucose random,glucose random
+Others,monocytes,absolute monocytes
+Others,red blood cells,"blood group abo "" rh """
+Others,cholesterol total,"cholesterol ( total ) *, ( chod - pap )"
+Others,egfr,"egfr, serum"
+Others,hba1c,hba1c ( glycated hb )
+Others,haemoglobin,hb %
+Others,red blood cells,r b c ( red blood cells )
+Others,mean corp hb ( mch ),mean corp hb ( mch )
+Others,platelet,plt
+Others,others,monocytes
+Others,rbc,rbcs count
+Others,nucleated red blood cells %,nucleated red blood cells %
+Others,amorphous sediment,amorphous sediment
+Others,erythrocyte sedimentation rate (esr),erythrocyte sedimentation rate ( esr at 1 hour )
+Others,bacteria bile pigment,bile salt
+Others,chloride,chlorides
+Others,red blood cells,w.b.c.
+Others,bacteria bile pigment,"nitrite,"
+Others,platelet count,platelet count ( plt )
+Others,leucocyte count,tlc ( total leucocyte count )
+Others,glucose fasting,"glucose fasting ( fbs ), ( plasma - f / god - pap )"
+Others,reducing sugar,reducing sugar ( urine )
+Others,mean corpuscular volume,mcv ( mean corpuscular volume )
+Others,bacteria bile pigment,bile salts :
+Others,serum creatinine,triglycerides
+Others,mchc,mean corpuscular haemoglobin
+Others,vitamin d- 25 hydroxy,vitamin d- 25 hydroxy
+Others,ldlc/hdlc ratio,ldlc / hdlc ratio
+Others,plasma glucose ( f ),plasma glucose ( f )
+Others,serum bilirubin total,bilirubin - total
+Others,alkaline phosphatase,"alkaline phosphatase,"
+Others,fasting blood sugar (plasma),fasting blood sugar (plasma)
+Others,pus cells,pus cell
+Others,glycosylated haemoglobin,hba1c ( glycosylated hemoglobin )
+Others,bacteria,bacteria.
+Others,absolute neutrophils count,absolute neutrophil count
+Others,non hdl,"non - hdl cholesterol, total cholesterol"
+Others,free tthyroxine (t4),"free t4, serum"
+Others,gamma-glutamyl transferase (ggt),ggt - gamma glutamyl
+Others,rbc/hpf,rbc / hpf
+Others,yeast cells,yeast cells.
+Others,non hdl,"non hdl cholesterol,, serum"
+Others,hdl cholesterol direct,hdl cholesterol direct
+Others,epithelial cells,epithelial cells / hpf
+Others,blood sugar fasting,serum fbs
+Others,amorphous,amorphous deposits
+Others,red blood cells,blood group ( abo )
+Others,ketones,ketone bodies
+Others,eosinophils - absolute count,absolute eosinophil count ( aec )
+Others,serum protein,total protein : -
+Others,haemoglobin (hb),haemoglobin ( hb )
+Others,calcium,s.calcium
+Others,hba1c,glyco hb ( hba1c )
+Others,pcv / haematocrit,"p.c.v / haematocrit,"
+Others,mcv,m c v ( mean corp volume )
+Others,erythrocyte sedimentation rate (esr),erythrocyte sedimentation rate ( e
+Others,triglycerides,"triglycerides, serum"
+Others,sgot (ast),sgot / ast : -
+Others,rdw-cv,rdw - cv
+Others,serum potassium,serum potassium
+Others,serum protein,total protein
+Others,abo blood group,abo blood group
+Others,albumin,albumin : -
+Others,absolute neutrophils count,absolute neutrophils
+Others,ft3,serum ft3
+Others,albumin - serum,"albumin, serum"
+Others,red blood cells,blood group :
+Others,blood urea,blood urea nitrogan
+Others,yeast cells,blast cells
+Others,creatinine - serum,creatinine - serum
+Others,ldl,very low density lipoprotein ( vldl )
+Others,hdl cholesterol,l dl cholesterol
+Others,haemoglobin,heamoglobin ( hb )
+Others,esr,esr 1 st hour
+Others,crystals,crystals *
+Others,serum protein,"total proteins, serum"
+Others,serum creatinine,creatinine *
+Others,rdw-cv,rdw cv
+Others,esr,e.s.r. ( 1 st hour )
+Others,cholesterol,serum total cholesterol
+Others,colour,colour ..
+Others,tc/ hdl cholesterol ratio,"triglyceride / hdl cholesterol ratio, ( tg / hdl )"
+Others,tc/ hdl cholesterol ratio,tc / hdl ratio
+Others,haemoglobin (hb),haemoglobin
+Others,red blood cells,red blood cells / hpf
+Others,absolute lymphocyte count,absolute lymphocyte count *
+Others,vldl cholesterol,"vldl cholesterol, serum"
+Others,rh ( d ) type,rh ( d ) type
+Others,vldl cholesterol,vldl cholesteol
+Others,leucocyte count,total leukocyte count
+Others,lymphocytes - absolute count,lymphocytes - absolute count
+Others,sugar,b . sugar ( f )
+Others,serum creatinine,s. creatinine
+Others,average blood glucose,average blood glucose
+Others,m c h c ( mean corp hb conc ),m c h c ( mean corp hb conc )
+Others,hdl cholesterol,s.h.d.l. cholesterol
+Others,tsh,"sensitivetsh, serum"
+Others,red blood cell count,rbc ( red blood cell )
+Others,neutrophil/ploymorph,neutrophil
+Others,cholesterol total,cholesterol - total
+Others,vldl,vldl ..
+Others,erythrocyte sedimentation rate (esr),e.s.r ( westerngreen method ) - in first hour
+Others,volume,volume ( ml )
+Others,sugar,sugar .....
+Others,rbc/hpf,microscopic rbc ( / hpf )
+Others,serum bilirubin direct,bilirubin direct
+Others,total t4: thyroxine - serum,total t4
+Others,colour,colour : -
+Others,reducing sugar,reducing sugar
+Others,creastals,creastals
+Others,alanine transaminase (alt/sgpt),alt ( sgpt )
+Others,thyroid stimulating hormone (tsh),serum tsh
+Others,alanine transaminase,alanine transaminase ( sgpt )
+Others,cholesterol,total cholestrol / tgl ratio
+Others,blood grouping,blood grouping
+Others,platelet count,total platelet count
+Others,spermatozoa,spermetozoa
+Others,serum creatinine,s.creatinin
+Others,wbc count,total wbc count - tc *
+Others,red blood cells,"total r,b.c count"
+Others,epithelial,epithelial cell
+Others,cholesterol - serum,serum cholesterol
+Others,e.s.r.,e.s.r.
+Others,mean platelet volume,mean platelet volume
+Others,cholesterol - serum,"cholesterol, serum"
+Others,absolute monocyte count,"absolute neutrophil count,"
+Others,triglycerides,triglycerides ( tgl )
+Others,bacterial bile pigment,bile salts / pigment
+Others,esr,e.s.r.
+Others,lymphocytes - absolute count,lymphocytes *
+Others,fasting blood  sugar,fasting blood sugar
+Others,absolute baspophil count,absolute basophil count
+Others,casts,casts *
+Others,total w.b.c count,total w.b.c count
+Others,sodium - serum,sodium ( serum )
+Others,mucous,mucous thread :
+Others,erythocyte sed.rate,erythrocyte sed.rate ( win ) *
+Others,urobilinogen,urobillionogen
+Others,lymphocytes - absolute count,lymphocytes
+Others,reaction ph,reaction ph
+Others,red blood cells,total r.b.c. count
+Others,specific gravity,specific gravity ( sg )
+Others,serum bilirubin total,bilirubin total
+Others,sugar,sugar f.
+Others,alkaline phosphatase,alkaline phosphatase - alpi
+Others,red blood cells,blood in urine
+Others,hb1ac,hb1ac
+Others,hdl/ldl,ldl / hdl
+Others,eosinophils,eosinophill
+Others,epithelial cells,epith.cells
+Others,sgot (ast),sgot / ast
+Others,blood sugar fasting,blood sugar - fasting
+Others,glycosylated haemoglobin,hba1c ; glycosylated hemoglobin
+Others,pcv / haematocrit,haematocrit ( pcv )
+Others,cholesterol,total cholesterol : hdl
+Others,red blood cells,blood group ( abo typing )
+Others,serum potassium,serum potassium ( k + )
+Others,eosinophils,eosinophil ( e )
+Others,mean corpuscular volume,mcv =
+Others,rbcs,rbcs
+Others,sugar,urine sugar
+Others,red blood cells,' blood group
+Others,platelet to large cell ratio,* platelet larger cell ratio ( p - lcr )
+Others,basophils - absolute count,absolute basophils count
+Others,epithelial cells,epi cells.
+Others,erythrocyte sedimentation rate (esr),esr.
+Others,erythrocyte sedimentation rate (esr),esr ( automated )
+Others,serum ft3,serum ft3
+Others,acidity (ph),ph *
+Others,bilirubin,urine bilirubin
+Others,rbc/hpf,rbc / hpf.
+Others,monocytes- absolute count,absolute monocytes count
+Others,total cholesterol/hdl ratio,cholesterol / hdl ratio *
+Others,absolute neutrophils count,absolute neutrophil count *
+Others,hyphae,hy phae :
+Others,ldl cholesterol - direct,"ldl cholesterol - ( direct ldl ) ,"
+Others,erythrocyte sedimentation rate (esr),erythrocyte sedimentation rate ( esr ) *
+Others,rh ( d ) factor,rh ( d ) factor
+Others,serum creatinine,"serum, creatinine"
+Others,packed cell volume,packed cell volume [ pcv ]
+Others,vldl,s.vldl ( calc. )
+Others,blood urea nitrogen,bun - blood urea nitrogen
+Others,pcv / haematocrit,p.c.v. / haematocrit value
+Others,white blood cells,w.b.c.
+Others,epithelial,epithelial : -
+Others,packed cell volume,packed cell volume ( pcv ) *
+Others,serum creatinine,serum creatine
+Others,urine routine glucose,glucose *
+Others,serum creatinine,creatinine.
+Others,total cholesterol/hdl ratio,total cholestrol / hdl ratio
+Others,uric acid - serum,"uric acid , serum"
+Others,reducing sugar,reducing substances
+Others,chloride,serum chloride ( ci )
+Others,sgot (ast),ast ( sgot )
+Others,mch,mean corpuscular hb concn.
+Others,platelet distribution width,* platelet distribution width ( pdw )
+Others,blood sugar fasting,blood sugar fasting
+Others,ldl cholesterol,hdl / ldl cholesterol ratio
+Others,erythrocyte sedimentation rate (esr) (1 hr),"esr ( * windrobe ) , 1 hr )"
+Others,alkaline phosphatase,alkaline phosphatase : -
+Others,mean platelet volume,* mean platelet volume ( mpv )
+Others,triglyceride/hdl ratio,triglyceride
+Others,red blood cell count,red cell blood count
+Others,ldl cholesterol,"ldl cholesterol, serum"
+Others,vldl - cholesterol,vldl - cholesterol
+Others,bacterial bile pigment,bile pigment
+Others,fasting blood sugar,"fasting blood sugar ( plasma ), impaired glucose tolerance ( igt )"
+Others,cholesterol total,"cholesterol total, ( serum / chod - pap with atcs )"
+Others,rbc count,"rbc count,"
+Others,serum creatinine,bun / s. creatinine
+Others,total r. b. c. count,total r. b. c. count
+Others,bile pigments,bile pigments :
+Others,blood urea nitrogen,s.bun
+Others,erythrocytes,erythrocytes
+Others,platelet distribution width,pdw *
+Others,wbc count,total leucocytes ( wbc ) count
+Others,alkaline phosphate,alkaline phosphate
+Others,blood glucose random,"glucose, random , sodium fluoride"
+Others,red blood cells,r.b.c
+Others,serum creatinine,creatinine :
+Others,ldl,low density lipoprotein ( ldl )
+Others,tc/ hdl cholesterol ratio,total chol / hdl cholesterol ratio
+Others,sgpt/alt,"sgpt ( alt ) , serum"
+Others,packed cell volume,mean cell volume ( mcv )
+Others,potassium - serum,potassium ( serum )
+Others,serum bilirubin total,"bilirubin ( total ) , serum"
+Others,packed cell volume,packed cell volume ( pcv ) / haematocrit
+Others,blood group abo,blood group abo
+Others,bun/creatinine ratio,* bun / creatinine ratio
+Others,basophils,absolute basophils
+Others,ketone/acetone,ketone
+Others,rdw,rdwi
+Others,specific gravity,"urine specific gravity, ketone bodies"
+Others,mean corpuscular volume,mean corpuscular volume ( mcv )
+Others,leucocyte count,leucocyte esterase
+Others,mean corp.hemo.conc,mean corp hb conc ( mchc )
+Others,epithelial,epithelial. cell :
+Others,cholesterol/hdl ratio,"chol / hdl chol ratio,"
+Others,procalcitonin,pct *
+Others,ldl/hdl cholesterol ratio,"hdl / ldl ratio, cholesterol"
+Others,pus cells,w.b.c. ( pus cells ) :
+Others,red blood cells,blood group rh type
+Others,ldl cholesterol,"ldl cholesterol,"
+Others,phosphate,alkaline phosphate
+Others,mchc,mean cell hb. con. ( mchc )
+Others,ldl cholesterol,ldl - cholesterol
+Others,ldl cholesterol direct,ldl cholesterol direct *
+Others,colour,colour ...
+Others,hdl cholesterol,cholesterol hdl
+Others,sgpt/alt,sgpt / alt
+Others,leucocytes,total leucocytes count ( wbc )
+Others,triglyceride,triglyceride ( tg )
+Others,specific gravity,specific gravity *
+Others,absolute neutrophils count,"absolute neutrophil count , edta"
+Others,blood urea,"blood urea, serum"
+Others,chloride - serum,"chloride, serum"
+Others,sgpt,sgot / sgpt
+Others,ldl cholesterol,serum ldl cholesterol
+Others,platelet count,platelet count : -
+Others,cholesterol/hdl ratio-serum,serum cholesterol / hdl ratio
+Others,others,lymphocytes
+Others,erythrocyte sedimentation rate (esr),"e.s.r., ( erythrocyte sedimentation rate )"
+Others,total cholesterol/hdl ratio,cholesterol / hdl ratio
+Others,absolute lymphocyte count,absolute lymphocyte count ( alc )
+Others,tlc (total leukocyte count),tlc
+Others,thyroid stimulating hormone (tsh),tsh 3 rd generation ( hs tsh )
+Others,urine protein,protiens
+Others,phosphorous,p - r.
+Others,phosphorous,p - lcc
+Others,rbc morphology,raised cell morphology
+Others,rbc,rbc *
+Others,monocytes,monocytes :
+Others,hematocrit,p.c.v
+Others,leucocytes,tlc ( wbc )
+Others,mcv,"mcv,edta"
+Others,eosinophils,eosinophils %
+Others,absolute lymphocyte count,lymphocytes :
+Others,cholesterol,total cholestrol
+Others,triglycerides,triglyseride
+Others,mcv,mcv : -
+Others,ldl,ldl - cholesterol ( direct )
+Others,random blood sugar,blood sugar ( f )
+Others,cholesterol/hdl ratio,ldl chol / hdl chol ratio
+Others,rbc,r b c ( red blood cells )
+Others,vldl,vldl - cholesterol
+Others,total protein,protein
+Others,bile salt,bile salt / pigment
+Others,rbc,total r.b.c.
+Others,haemoglobin,hb ( haemoglobin )
+Others,pct,pct
+Others,hdl cholesterol,hdl cholestrol
+Others,deposits,deposits
+Others,rbc's,rbc cells
+Others,blood,blood group rh thyping
+Others,sodium,sodium ( serum )
+Others,esr,e.s.r.(wester green method)
+Others,ldl/hdl ratio,ldl : hdl ratio
+Others,calcium,serum calcium ( ca + )
+Others,total cholesterol/hdl ratio,total chole. / hdl ratio
+Others,total leucocyte count,( tlc )
+Others,potassium,potasium
+Others,epith. cells,epith cells
+Others,total leucocyte count,tlc
+Others,ldl/hdl ratio,ldlc / hdlc ratio
+Others,ldl,l d l cholesterol
+Others,indirect bilirubin,indirect
+Others,urine sugar,sugar :
+Others,hdl cholestrol - direct,hdl cholestrol - direct
+Others,total leucocyte count,total w.b.c.
+Others,rbc,rbc count ..
+Others,hematocrit,packed cell volume [ pcv ]
+Others,fasting blood sugar,plasma glucose ( f )
+Others,creatinine,s.creatinin
+Others,phosphorous,p - lcr
+Others,fasting blood sugar,fbs ( fasting blood sugar )
+Others,nitrate,nitrate
+Others,triglycerides,tryglyceride
+Others,hemoglobin,hemoglobin(hb)
+Others,acetone,acetone :
+Others,rbc,total rbc count
+Others,alanine aminotransferase,s.g.p.t. ( alt )
+Others,chloride,chloride serum
+Others,vldl,serum vldl
+Others,cholesterol,s.cholesterol / hdl
+Others,neutrophils,neut %
+Others,total protein,protien
+Others,total leucocyte count,leucocyte esterase
+Others,pcv,pcv
+Others,gamma glutamyl transpeptidase,ggtp ( ggt )
+Others,calcium,ionic calcium
+Others,absolute neutrophil  count,"absolute neutrophil count,"
+Others,total leucocyte count,w.b.c. count
+Others,esr,esr 1st hr
+Others,absolute eosinophil count,eosinophil
+Others,hdl,hdi cholesterol
+Others,cholesterol,serum chol total
+Others,potassium,ser. potassium
+Others,alanine aminotransferase,alt / sgpt
+Others,rbc,total rbc
+Others,platelet distribution width,platelet distribution width ( pdw )
+Others,hematocrit,pcv ( hct )
+Others,pus cells,pus ( wbc ) cells
+Others,others,blood group abo
+Others,pus cells,leucocytes / pus cells
+Others,ldl/hdl ratio,ldl : hdl
+Others,crystals,creastals
+Others,crystals,crystal ( / hpf )
+Others,gamma glutamyl transpeptidase,g.g.t.
+Others,blood,blood group ( abo )
+Others,total leucocyte count,total leucocytic count
+Others,total leucocyte count,total w.b.c count
+Others,vldl,v ldl cholesterol
+Others,absolute basophil count,basophil
+Others,epithelial cells,epithelial cell
+Others,total t4,thyroxine - t4 total
+Others,leucocyte,total w.b.c count
+Others,specific gravity,spec. gravity :
+Others,platelet count,platelate count
+Others,colour,colour :
+Others,cholesterol/hdl ratio,cholesterol : hdl ratio
+Others,fasting blood sugar,fasting blood sugar *
+Others,haemoglobin,hemoglobin *
+Others,vldl,"vldl,"
+Others,creatinine,"serum creatinine,"
+Others,thyroid stimulating hormone,thyroid stimulating hormone ( tsh )
+Others,hdl/ldl,l dl & h dl ratio
+Others,fasting blood sugar,"glucose fasting, sod - fluoride plasma"
+Others,rbc,red cells
+Others,absolute neutrophil count,"absolute neutrophil count , edta"
+Others,haemocrit,p.c.v.
+Others,blood,blood group abo
+Others,vldl,very low density lipoprotein
+Others,ldl/hdl ratio,ldl / hdl cholesterol
+Others,esr,esr after 1st hour
+Others,mchc,m.c.h. c
+Others,transparancy,transparancy
+Others,erythrocyte sedimentation rate,e.s.r : at 1 hr
+Others,ldl cholesterol,l d l cholesterol
+Others,mpv,mean platelet volume ( mpv )
+Others,cast,cast / hpf
+Others,alanine aminotransferase,s.g.p.t.
+Others,sodium,sodium na +
+Others,fasting blood sugar,plasma glucose fasting *
+Others,cholesterol/hdl ratio,cholestrol / hdl ratio
+Others,rdw,r.d.w :
+Others,triglycerides,s. triglycerides *
+Others,blood urea nitrogen,bun : createnin ratio
+Others,mpv,mpv ( mean platelet vol ) :
+Others,r.d.w cv,r.d.w cv *
+Others,cholesterol,"s. cholesterol, serum by :"
+Others,appearanace,appearance
+Others,triglyceride,"triglyceride, serum"
+Others,vldl,s. v. l. d. l
+Others,total leucocyte count,total lipid
+Others,blood urea nitrogen,blood urea nitrogen (
+Others,urine sugar,sugar
+Others,glucose fasting,glucose- (fasting)
+Others,rbc's,rbc / hpf
+Others,erythrocyte sedimentation rate,esr- in first hour
+Others,blood,blood group abo / rh
+Others,rdw,rdw - cv
+Others,chloride,chloride ( serum )
+Others,quantity,quantity :
+Others,specific gravity,"colour, specific gravity"
+Others,rbc morphology,w.b.c morphology
+Others,absolute lymphocyte count,lymphocytes %
+Others,others,blood group rh thyping
+Others,platelet in smear,platelet in smear
+Others,cholesterol/hdl ratio,s. cholesterol / hdl ratio
+Others,hdl,high density lipid ( hdl )
+Others,tc/ hdl cholesterol ratio,ldl / hdl cholesterol ratio
+Others,bun creatinine ratio,bun creatinine ratio
+Others,total leucocyte count,total leucocyte count ( tlc )
+Others,rbc,total w.b.c count
+Others,tc/hdl,tc: hdl ratio
+Others,rdw cv,rdw - cv
+Others,mcv,mean corpuscular volume ( mcv )
+Others,creatinine,serum creatinine
+Others,rbc,erythrocytic
+Others,blood urea,"urea , serum"
+Others,cholesterol,cholesterol total
+Others,hdl,cholesterol : hdl cholesterol
+Others,leucocytes,leucocytic
+Others,erythrocyte sedimentation rate,first hour
+Others,erythrocyte sedimentation rate,esr 1 st hour
+Others,hematocrit,packed cell volume ( p.c.v )
+Others,tc/ hdl cholesterol ratio,s. ldl / hdl cholesterol ratio :
+Others,cholesterol,"cholesterol *, cholesterol oxidase"
+Others,others,other finndings
+Others,"fasting blood sugar,","fasting blood sugar,"
+Others,crystals,crystals of protozoa ( t.vaginatis )
+Others,esr,esr (westegren's method)
+Others,basophils,basophils :
+Others,ketone,ketone .
+Others,neutrophils,neutrophils %
+Others,hemacrit,plateletcrit ( pct )
+Others,neutrophils,neut #
+Others,creatinine,creatinine * [ serum ]
+Others,rbc,r.b.c s
+Others,mch,"m.c.h .,"
+Others,glycosylated haemoglobin,hba1c -
+Others,rbc,rbc / hpf
+Others,mchc,mean corp hb conc mchc
+Others,leucocytes,total leucocyte count
+Others,mchc,mean corpuscular hemoglobin conmchc
+Others,rbc,r. b. c.
+Others,pus cells,leukocytes/ pus cells
+Others,other,other findings
+Others,transparency,transprency
+Others,ldl - direct,ldl - direct
+Others,total leucocyte count,total wbc count
+Others,creatinine,s.creatinine
+Others,transpeny,transpency
+Others,epithelial cell,epithelial cell
+Others,tc & h dl ratio,tc & h dl ratio
+Others,globulin,globumin
+Others,creatinine,"serum, creatinine"
+Others,potassium,serum potassium
+Others,platelet count,plt
+Others,potassium,pottassium k +
+Others,leucocytes,leucocytes ( wbc )
+Others,direct bilirubin,bilirubin direct
+Others,total protein,total protien
+Others,hdl,hdl - cholesterol ( direct )
+Others,t3,triiodo thyronine - t3 total
+Others,cholesterol,"hdl - cholesterol, serum"
+Others,lymphocyte,lym #
+Others,monocytes,monocyte
+Others,bun/creatinine ratio,bun : creatinine
+Others,cholesterol,cholesterol - total
+Others,haemoglobin,haemoglobin ( hb )
+Others,fasting blood sugar,blood sugar ( fasting )
+Others,blood urea/ creatinine ratio,blood urea / creatinine
+Others,red blood cells,total rbc count
+Others,colour,"colour,"
+Others,monocytes,monocytes %
+Others,hdl,high density lipid ( hdl ) *
+Others,urine sugar,( li ) sugar
+Others,chloride,s.chloride
+Others,total bilirubin,bilirubin
+Others,hdl,hdl - cholesterol
+Others,cholesterol/hdl ratio,s cholesterol/hdl ratio
+Others,cholesterol: hdl cholesterol,cholesterol : hdl cholesterol
+Others,others,red cells
+Others,rbc,w.b.c.
+Others,alanine aminotransferase,s.g.p.t
+Others,bacteria,bacterias
+Others,rbc,r.b.cs
+Others,hematocrit,p.c.v / haematocrit
+Others,pus cells,pus cells :
+Others,vldl,vldi cholesterol
+Others,bun/cretinine ratio,ratio
+Others,ldl,s.ldl - cholesterol
+Others,bun/creatinine ratio,serum urea / creatinine ratio
+Others,hematocrit,hct / haematocrit . edta
+Others,wbc count,w.b.c. count
+Others,calcium,serum calciu
+Others,urine sugar,urine glucose ( sugar )
+Others,rdw,red cell distribution width ( rdw cv )
+Others,polymorphs,dlc polymorphs
+Others,blood,abo
+Others,mch,mean corpuscular heamoglobin
+Others,rbc,red blood cell count
+Others,cholesterol,"serum cholesterol, serum triglyceride"
+Others,pcv,p.c.v
+Others,platelet count,platelet in smear
+Others,hemocrit,pct
+Others,rbc,rbc ( / hpf )
+Others,fasting blood sugar,fasting plasma glucose
+Others,blood urea,urea
+Others,others,crystal of calcium oxalate
+Others,triglycerides,"triglycerides *, lip / glucerol kinase"
+Others,blood group,abo
+Others,total leucocyte count,totai wbc count
+Others,blood,blood group
+Others,bun/creatinine ratio,b : c ratio
+Others,tc/hdl,tc / hdlc ratio
+Others,alanine aminotransferase,ast / sgot
+Others,erythrocyte sedimentation rate,esr ( erythroclyte sedimentation
+Others,total leucocyte count,total leucocytic count ( tlc )
+Others,cholesterol,"serum cholesterol, total"
+Others,cholesterol,serum cholestrol
+Others,others,blood group
+Others,bile salt,bile salts
+Others,deposit,deposits
+Others,fasting blood sugar,blood sugar fasting
+Others,reaction(ph),reaction(ph)
+Others,rbc,r.b.c.
+Others,absolute lymphocyte count,lymphocytes *
+Others,sodium,s.sodium
+Others,albumin/globulin ratio,ldlc / hdlc ratio
+Others,monocytes,mon %
+Others,bile salt,bile salts :
+Others,absolute eosinophil count,absolute eosinophils count
+Others,leucocytes,total leucocytes count ( tlc )
+Others,creatinine,"serum creatinine, serum calcium"
+Others,ldl,"ldl cholesterol, serum"
+Others,cholesterol,total cholesteral
+Others,rdw,rd w
+Others,rbc's,rbc ' s
+Others,acidic ph,ph
+Others,esr,esr(westegren's method))
+Others,others,crystal of triple phosphate
+Others,hdl,h dl ( direct )
+Others,rbc's,ervthrocytes
+Others,hdl/ldl,hdl / ldl ratio
+Others,rbc,total red blood cell count ( rbc )
+Others,leucocytes,total w.b.c count
+Others,cholesterol/ hdl cholesterol ratio,total / hdl cholesterol ratio
+Others,urobilinogen,urobilogen :
+Others,pus cells,pus cell :
+Others,tc/ hdl cholesterol ratio,t c & h d l ratio
+Others,alanine aminotransferase,sgpt ( alt ) - serum
+Others,pus cells,epith.cells
+Others,hdl,direct hdl cholesterol
+Others,rbc,total r.b.c. :
+Others,wbc,w.b.c. count
+Others,cholesterol/hdl ratio,total cholesterol : hdl
+Others,lymphocyte,lymphocytes
+Others,urine sugar,glucose
+Others,mch,mean corpuscularheamoglobin
+Others,tc/hdl cholesterol ratio,tc / hdlc ratio
+Others,cholestrol,serum cholesterol
+Others,total cholesterol,total cholesterol
+Others,cholesterol,t.cholesterol
+Others,total rbc count,total red blood cell count (rbc)
+Others,mch,mch ( mean corpuscular hemoglobin )
+Others,transparency,transpency
+Others,rbc,r b cs
+Others,rbc's,red blood cells
+Others,monocytes,"lymphocytes, monocytes"
+Others,direct bilirubin,direct
+Others,haemoglobin,haemoglobin :
+Others,blood glucose fasting,blood glucose- fasting
+Others,mch,m.c.h ..
+Others,ketone bodies,ketone bodies
+Others,vldl cholesterol,vldl cholestrol
+Others,blood,"blood group "" rh """
+Others,globulin,glubulin
+Others,mchc,"mchc , edta"
+Others,esr,e.s.r. at the end of 1 hr :
+Others,leucocytes,comment on wbc
+Others,fasting blood sugar,blood sugar ( f )
+Others,rdw,r.d.w.
+Others,direct bilirubin,l dl ( direct )
+Others,rdw cv,rdw - cv ( red cell distribution width )
+Others,cholesterol/hdl ratio,ldl cholesterol / hdl ratio
+Others,cholesterol/hdl ratio,t.cholesterol / hdl
+Others,urobilogen,urobilogen
+Others,urine sugar,urine sugar fasting
+Others,eosinophils,eosinophiles
+Others,rdw,rdw cv
+Others,bun/creatinine ratio,bun / creatinine
+Others,mchc,mchc.
+Others,blood urea nitrogen,b.u.n
+Others,pus cells,epi cells
+Others,total wbc,total wbc
+Others,calcium,calcium oxalate
+Others,hdl,hdl cholestrol - direct
+Others,hepatitis b surface antigen,hbsag ( australian antigen )
+Others,rdw,"rdw ( cv ) , edta"
+Others,hdl,h d l cholesterol
+Others,aspartate aminotransferase,sgot ( ast )
+Others,leucocytes,leukocytes
+Others,ldl/hdl ratio,l dl & h dl ratio
+Others,hdl,h.d.l. cholesterol
+Others,ldl cholesterol,sldl cholesterol
+Others,ph,reaction (ph)
+Others,mch,m.c.h.
+Others,rbc,erythrocytes ( rbcs )
+Others,leucocytes,wbc / hpf
+Others,sodium,sodium serum
+Others,cholesterol,cholesterol hdl
+Others,chloride,serum chlorides
+Others,rbc's,rbc.
+Others,total cholesterol/hdl,"ratio of tot - cholestro / hdl, hdl -, ldl -"
+Others,epithelial cells,ep. cells
+Others,wbc,total w.b.c count
+Others,specific gravity,s.pgravity
+Others,s.v.l.d.l,s. v. l. d. l
+Others,uric acid,"uric acid., sodium ( na )"
+Others,triglyceride/hdl ratio,"triglyceride, serum"
+Others,cholesterol/hdl ratio,cholesterol / hdl ratio
+Others,casts,casts :
+Others,tc/ ldl cholesterol ratio,ldl / hdl cholesterol ratio
+Others,mch,mean corpuscular hemoglobin conmchc
+Others,ldl,serum ldl cholesterol
+Others,others,ratio
+Others,bun/creatinine ratio,bun creatinine ratio
+Others,eosinophil,eosinophil
+Others,random blood sugar,blood glucose
+Others,wbc,total w.b.c. count
+Others,polymorphs,dlc=polymorphs
+Others,mchc,mch c
+Others,rdw,r.d.w cv *
+Others,ldl,serum ldl
+Others,hematocrit,pcv ( haematocrit )
+Others,alanine aminotransferase,"s.g.p.t ( alt ) , :"
+Others,total leucocyte count,leucocytic
+Others,creatinine,s. creatinine *
+Others,haemoglobin,hb. %
+Others,cholesterol/hdl ratio,t.chol / hdl cholesterol
+Others,transpency,transpency
+Others,rbc,rbc ( red blood cell count )
+Others,ldl/hdl cholesterol,ldl/hdl cholesterol ratio
+Others,hematocrit,hematocrit hct
+Others,absolute neutrophil count,neutrophil
+Others,mchc,mean corp hb conc ( mchc )
+Others,amorphous debris,amorphous deposits
+Others,rbc,rbcs / hpf
+Others,blood,blood in urine
+Others,urine sugar,urine sugar :
+Others,rbc,r.b.c. count
+Others,rbc,r b c count
+Others,basophil,basophil
+Others,vldl,serum vldl cholesterol
+Others,tc/hdl ratio,total : hdl ratio
+Others,alkaline aminotransferase,s.g.o.t
+Others,rbc,red blood cell
+Others,transparency,transparency :
+Others,rbc,r.b.c count
+Others,erythrocyte sedimentation rate (esr),e.s.r. ( westergreen
+Others,absolute monocyte count,monocyte
+Others,procalcitonin,plateletcrit ( pct )
+Others,total bilirubin,bilirubin total
+Others,ldl/hdl ratio,ldl / hdl cholestrol
+Others,mpv,mpv ( mean platelet volume )
+Others,erythrocyte sedimentation rate,1 st hour
+Others,vldl,s. vldl - cholesterol :
+Others,hematocrit,packed cell volume ( pcv )
+Others,ketone,ketones
+Others,ldl,l.d.l cholesterol
+Others,platelet count,platelets counts
+Others,total/ hdl cholesterol ratio,total / hdl cholesterol ratio
+Others,potassium,"ser. pottassium, l. d. h., g. g. t., c. p. k. ( m.b. )"
+Others,erythrocyte sedimentation rate,erythrocyte sed. rate ( wes )
+Others,fasting blood sugar,fasting blodd sugar
+Others,hdl,"s. hdl - cholesterol, ( direct ) :"
+Others,ldl,low density lipid ( ldl ) *
+Others,bile pigment bile salt,"pigment & salts,"
+Others,wbc,wbc.s
+Others,erythrocyte sedimentation rate,esr ( erythrocyte sedimentation rate )
+Others,bun,b.u.n.
+Others,fasting blood glucose,blood glucose- fasting
+Others,urine sugar,sugar ( f )
+Others,others,rdw - cv
+Others,sgpt,alt/sgpt
+Others,eosinophils,eosinophilias
+Others,blood,abo group
+Others,mch,"mch , edta"
+Others,reaction,reaction (ph)
+Others,rbc,"rbc "" ' s"
+Others,cho./ hdl cholesterol ratio,chol / hdl cholesterol ratio
+Others,deposit,( vi ) deposits
+Others,hemocrit,hct
+Others,bun/creatinine ratio,bun / serum creatinine ratio
+Others,fasting blood sugar,fasting blood glucose :
+Others,leucocytes / pus cells,leucocytes / pus cells
+Others,mch,mch ( mean corpuscular haemoglobin )
+Others,transperancy,transperancy
+Others,epithelial cells,ep.cells
+Others,nitrites,nitrites :
+Others,triglycerides,serum triglyceride
+Others,vldl cholesterol,v ldl cholesterol
+Others,fasting blood sugar,blood sugar level ( f )
+Others,hdl,serum hdl
+Others,ldl,low density lipid ( ldl )
+Others,potassium,serum potassium ( k + )
+Others,ldl,s.ldl cholesterol
+Others,lymphocyte,lym %
+Others,blood urea nitrogen,b.u.n.
+Others,rbc,rbc count
+Others,rdw,red cell distribution width ( rdw )
+Others,fasting blood sugar,bsf ( blood sugar fasting )
+Others,indirect bilirubin,bilirubin indirect
+Others,total leucocyte count,wbc.s
+Others,hematocrit,pcv *
+Others,ldl/hdl cholesterol ratio,ldl / hdl cholesterol
+Others,platelet morphology,platelets morphology
+Others,others,abo blood group
+Others,mch,mchc ( mean corpuscular hb conc. )
+Others,fbs,blood glucose fasting
+Others,ldl,direct ldl cholesterol
+Others,rbc's,rbcs
+Others,hematocrit,p.c.v. / haematocrit value
+Others,mchc,mchc ( mean corpuscular hb conc. )
+Others,total leucocyte count,tlc ( total leucoytes count )
+Others,epithelial cells,epi. cells / hpf
+Others,others,raised cell morphology
+Others,total leucocyte count,total wbc count / tlc
+Others,platelet count,platelet counts
+Others,mch,mch ( mean corpuscular hb )
+Others,blood,abo blood group
+Others,total leucocyte count,total leucocyte count *
+Others,fasting blood sugar,"fasting blood sugar,"
+Others,appearancy,apperance
+Others,blood urea nitrogen,blood urea nitrogen - bun
+Others,cholesterol,total cholesterol *
+Others,erythrocyte sedimentation rate,erythrocyte sed.rate ( win ) *
+Others,potassium,potassium serum
+Others,ldl,ldl cholesterol - direct
+Others,others,mentzer index
+Others,lymphocyte,lymphocytes *
+Others,urine protein,protein
+Others,platelet count,platlets count.
+Others,rdw sd,rdw - sd ( red cell distribution width - sd )
+Others,hemotocrit,pcv
+Others,cholesterol,serum cholesterol
+Others,creatinine,bun / s.creatinine
+Others,ca,calcium serum
+Others,pus cells,ep. cells
+Others,rbc,total r. b. c. count
+Others,mcv,mcv *
+Others,leucocytes,wbc ' s
+Others,uric acid,serum uric acid
+Others,monocyte,monocyte
+Others,hdl,hdl ( direct )
+Others,crystals,crystals :
+Others,mcv,mean corp volume mcv
+Others,rbc,erythrocytes ( rbc )
+Others,alkaline aminotransferase,sgpt
+Others,fbs,blood sugar fasting
+Others,rbc,r.b.c. / h.p.f.
+Others,others,trichomonas vaginalis
+Others,cholesterol,total cholesterol - serum
+Others,ketone,ketone body
+Others,hematocrit,hct %
+Others,potassium,"ser. pottassium,"
+Others,bun,blood urea nitrogen ( bun )
+Others,hematocrit,p.c.v.
+Others,fasting blood sugar,b. suger f.
+Others,mch,m.c.h :
+Others,cholesterol : hdl,cholesterol : hdl
+Others,rbc,r b c counts
+Others,urine sugar,sugar ( reducing sugar )
+Others,procalcitonin,pct ( platelecrit )
+Others,sgpt,s.g.p.t.
+Others,urine protein,"urine protein ( albumin ), urine ketones ( acetone )"
+Others,leucocyte,( tlc )
+Others,alkaline phosphatase,serum alkaline phosphatase
+Others,hdl/ldl ratio,l dl & h dl ratio
+Others,potassium,potassium ( serum )
+Others,alkaline phosphatase,alkaline phosphataes
+Others,hemoglbin,hemoglobin
+Others,blood,blood grouping
+Others,mch,mch .
+Others,mchc,m. c. h. c :
+Others,erythrocyte sedimentation rate,esr after 1 st hour
+Others,ketone,ketonebodies
+Others,hdl,hdl cholesterol direct
+Others,mcv,mcv ( mean corpuscular volume )
+Others,cholesterol : hdl,total cholesterol : hdl
+Others,alanine aminotransferase,sgpt ( alt )
+Others,rbc,t.r.b.c
+Others,specific gravity,s / gravity
+Others,sodium,ser. sodium
+Others,erythrocyte sedimentation rate,e.s.r. at the end of 1 hr :
+Others,hematocrit,p.c.v / hct
+Others,neutrophils,neutrophils :
+Others,vldl,vldl cholestrol
+Others,basophils,basophils %
+Others,(ph),ph
+Others,hematocrit,hct ( pcv )
+Others,sediment,( li ) sediment
+Others,rbc,"rbc count,"
+Others,mcv,m. c. v. :
+Others,triglycerides,triglycerides .
+Others,transparency,transparency ( apperance )
+Others,pus cells,ep cells
+Others,appearance,appearnce
+Others,absolute neutrophil count,absolute neutrophils count
+Others,hdl,s.hdl - cholesterol
+Others,nil,rbc
+Others,plateletcrit ( pct ),plateletcrit ( pct )
+Others,monocytes,mon #
+Others,mucus,mucus threds
+Others,erythrocyte sedimentation rate,erythrocyte sedimentation rate ( esr )
+Others,ldl/hdl ratio,ldl chol / hdl chol ratio
+Others,mch,mean corp hb mch
+Others,leucocyte,total leucocyte count
+Others,erythrocyte sedimentation rate,erythrocyte sedementation rate
+Others,appearance,colour / appearance
+Others,total leucocyte count,t.c
+Others,rbc's,total red blood cell count ( rbc )
+Others,wbc,wbc / hpf
+Others,erythrocyte sedimentation rate,e.s.r ( 1st hour )
+Others,aspartate aminotransferase,ast / sgot
+Others,direct bilirubin,hdl ( direct )
+Others,ldl/ hdl cholesterol ratio,ldl / hdl cholesterol ratio
+Others,creatinine,creatinine *
+Others,phosphorous,d - p
+Others,cholesterol/hdl ratio,cho / hdlc.ratio
+Others,color,color
+Others,erythrocyte sedimentation rate (esr),e. s. r
+Others,erythrocyte sedimentation rate,esr ( automated )
+Others,haemoglobin,hacmoglobin
+Others,transparency,transperancy
+Others,bacteria,( bacterias )
+Others,epithelial cells,epithelial. cell :
+Others,random blood sugar,blood sugar f.
+Others,mch,mean corpuscular hb conc
+Others,rbc's,rbc
+Others,mchc,mean corpuscular hb con
+Others,crystals,crystals / h.p.f.
+Others,ldl,ldl cholestrol
+Others,creatinine,creatinine :
+Others,fasting blood sugar,blood glucose fasting
+Others,eosinophils,eosinophils :
+Others,hdl,hdl cholesterol *
+Others,ph-stool,ph
+Others,mcv,mc v
+Others,hematocrit,( pcv ) haematocrit
+Others,bilirubin total,total
+Others,urine sugar,reducing sugar
+Others,vldl,v.l.d.l. cholesterol
+Others,fasting blood sugar,glucose - ( fasting )
+Others,turbidity,turbidity
+Others,fasting blood sugar,sugar ( f )
+Others,rbc morphology,r.b.c morphology
+Others,rbc,r.b.c
+Others,amorphous debris,amorphous segment
+Others,leucocyte,total leucocytic count
+Others,globulin,globulin
+Others,blood group,blood group & rh type
+Others,thyroid stimulating hormone,tsh
+Others,ldl,ldl - direct
+Others,erythrocyte sedimentation rate,erythrocytes sedimentation rate
+Others,mch,mean corpuscular hemoglobin ( mch )
+Others,ldl cholesterol,ldl cholestrol
+Others,ldl,"s. ldl - cholesterol, ( direct ) :"
+Others,rbc,red blood cells
+Others,rbc,rbc.s
+Others,ldl : hdl,ld.l : h.d.l
+Others,bile pigment,pigment & salts
+Others,rbc,red blood cells :
+Others,triglyceride,serum triglyceride
+Others,cholesterol/hdl ratio,chol. / hdl chol. ratio
+Others,absolute lymphocyte count,lymphocytes
+Others,vldl,s vldl
+Others,absolute monocyte count,absolute monocytes count
+Others,hdl,hdl cholestrol
+Others,erythrocyte sedimentation rate,esr after one hour
+Others,tlc,tlc
+Others,bile pigment,bile salts / pigment
+Others,others,b : c ratio
+Others,mchc,mchc ( mean corp hemoglobin concentration )
+Others,pus cells,pus cells / h.p.f.
+Others,phosphorous,m.p.v.
+Others,blood urea,blood urea ( bun )
+Others,appearance & colour,appearance & colour
+Others,wbc morphology,w.b.c morphology
+Others,blood,"blood group abo & rh , edta"
+Others,rbc's,red cells
+Others,cholesterol/hdl ratio,serum cholesterol / hdl ratio
+Others,platelet distribution width,pdw ( platelet distribution width )
+Others,others,hba1c
+Others,platelet count,plt.count
+Others,"fasting blood sugar,",fasting blood sugar
+Others,uric acid,uric acid * [ serum ]
+Others,rbc,rbc cells
+Others,uric acid,"uric acid , serum"
+Others,specific gravity,s.p garovity
+Others,chloride,chloride ci -
+Others,others,plateletcrit
+Others,epithelial cells,epithelial / h.p.f.
+Others,chlorides,chlorides
+Others,total leucocyte count,leukocytes
+Others,creatinine,s. creatinine
+Others,blood urea,blood urea / creatinine ratio
+Others,rbc,total r.b.c
+Others,esr,"esr [ westergren ] , na - citrate"
+Others,triglycerides,"triglycerides *, lip / glucerol kinase,"
+Others,erythrocyte sedimentation rate,esr ( westergren )
+Others,phosphorous,p.c.v.
+Others,ldl,l dl ( direct )
+Others,urine protein,proteins
+Others,fasting blood sugar,glucose fasting
+Others,total leucocyte count,total w. b. c. :
+Others,hdl,"hdl cholesterol,"
+Others,bile pigment,bile pigments :
+Others,ldl/hdl ratio,ldl / hdl ratio
+Others,epithelial cells,ep cells
+Others,total protein,proteins
+Others,mchc,mean corpuscular heamoglobin
+Others,t c & h d l ratio,t c & h d l ratio
+Others,creatinine,creatinine.
+Others,fasting blood sugar,glucose ( fasting )
+Others,ldl,ldl - cholesterol
+Others,fungus,fungus
+Others,rbc,total r.b.c. count
+Others,phosphorous,p. c. v :
+Others,cholesterol,"cholesterol ( total ) *, ( chod - pap )"
+Others,ldl,dldl cholesterol
+Others,urine protein,urine protein ( albumin ) *
+Others,fasting blood sugar,"glucose, fasting"
+Others,leucocytes,white blood cells
+Others,amorphous debris,amorphous deposits *
+Others,others,a. blood
+Others,triglycerides,triglycerides ( tg )
+Others,triglycerides,s.triglyceride
+Others,hematocrit,hct =
+Others,ldl cholesterol/hdl ratio,"ldl chol / hdl chol ratio,"
+Others,alkaline phosphatase,serum alk.phosphatase
+Others,thyroid stimulating hormone,( tsh )
+Others,alkaline phosphate,alkaline phosphatse
+Others,hematocrit,haemotocrit
+Others,bacteria,urine - bacteria
+Others,absolute basophil count,"absolute lymphocyte, absolute basophil count 0.05"
+Others,blood urea,serumurea
+Others,bacteria,* bacteria
+Others,non hdl,"chol / hdl ratio, total cholesterol, triglycerides, ldl, hdl, non - hdl cholesterol"
+Others,tsh,tsh
+Others,others,p.d.w.
+Others,uric acid,"uric acid, serum"
+Others,albumin/globulin ratio,"a / g ratio, serum"
+Others,esr,e . s.r.
+Others,vitamin d. 25 hydroxy,25 hydroxy vitamin d
+Others,quantity,volume
+Others,blood urea nitrogen,blood urea nitrogen :
+Others,platelet count,"platelet count, m.p.v., differential leucocyte count :"
+Others,sodium,"sodium,"
+Others,rdw,rdw ( cv )
+Others,fasting blood sugar,# glucose ( fasting )
+Others,wbc,wbcs
+Others,rbc,rbcs
+Others,triglycerides,# s.triglycerides
+Others,ldl,ldl cholesterol - serum
+Others,others,glucose
+Others,protein total,protein total
+Others,chloride,chloride ( ci )
+Others,urine protein,protein in urine
+Others,blood urea nitrogen,"blood urea nitrogen , serum"
+Others,epithelial cells,epithelial cells :
+Others,hematocrit,packed cells volume
+Others,vitamin d,25 oh vitamin d total
+Others,others,neut#
+Others,pcv,hct
+Others,mch,mean corpuscular hemoglobin contration ( mchc )
+Others,quantity,* quantity examined
+Others,total leucocyte count,total leucocyte count :
+Others,eosinophil count,eosinophil
+Others,acetone,acetone bodies :
+Others,mchc,m.c.h.c
+Others,hdl,"hdl cholesterol, hdl - c"
+Others,phosphorous,p.c.v
+Others,bilirubin total,"serum bilirubin, total"
+Others,rdw,r.d.w. ( sd )
+Others,glycosylated haemoglobin,hba1c(glycated hb)
+Others,total lecocyte count,tlc
+Others,rbc,rbc.
+Others,monocytes,m
+Others,appearance,* appearance
+Others,globulin,sr globulin
+Others,absolute eosinophils count,absolute eosinophils count
+Others,rbc,red blood cells ( rbc )
+Others,erythocyte sed.rate,erythro sedi. rate :
+Others,ldl,sr ldl
+Others,fasting blood sugar,"glucose fasting, sod-fluoride plasma"
+Others,granulocyte,gr
+Others,globulin,globilin
+Others,volume,volume
+Others,rbc,red cells count
+Others,ldl/hdl ratio,trig / hdl ratio
+Others,neutrophils,dc - neutrophils
+Others,hiv,hiv i
+Others,pus cells,urine - pus cells
+Others,specific gravity,sp. gravity ...
+Others,mcv,mcv ( mean cell volume )
+Others,absolutemonocytes count,absolute monocytes
+Others,total leucocytes count,twbc
+Others,direct bilirubin,bilirubin ( direct ) - serum
+Others,ldlcholesterol/hdl ratio,"ldl chol / hdl chol ratio,"
+Others,basophil,basophil ( b )
+Others,mch,mch ) mean corpuscular
+Others,ttriglycerides,serum triglyceride
+Others,glycosylated haemoglobin,glycosylated
+Others,hematocrit,p.c.v1
+Others,total protein,total protein
+Others,ldl cholesterol,mcv
+Others,ggtp,ggtp
+Others,t3,"t3 ( total ) by elfa, serum"
+Others,vitamin d,vitamin d3
+Others,ldl/hdl ratio,ldl/hdl cholesterol ratio
+Others,erythrocyte sedimentation rate,erythrocyte sed.rate ( win )
+Others,blood,urine - blood
+Others,absolute neutrophil count,absolute neutrophil
+Others,absolute neutrophil count,mcv
+Others,rbc,. r b c ( red blood cells )
+Others,erythrocyte sedimentation rate,second hour
+Others,cholesterol,serum cholesterol - total
+Others,bun/creatinine ratio,bun/serum creatinine
+Others,mchc,mch ) mean corpuscular haemoglobin concentration
+Others,vldl,* sr.vldl
+Others,leucocytes,wbcs
+Others,total leucocyte count,tlc & dlc
+Others,sediment,amorphous sediment
+Others,platelet count,"platelet count, differential leucocyte count :"
+Others,total t4,"t4, total ( thyroxine )"
+Others,epithelial cells,"epithelial cells, casts"
+Others,post prandial blood sugar,glucose pp
+Others,mch,mean corp. hb ( mch )
+Others,creatinine,s creatinine
+Others,sediment,sediment
+Others,indirect bilirubin,bilirubin - indirect
+Others,triglyceride,"triglyceride , serum"
+Others,total leucocyte count,total leucocytes count ( wbc )
+Others,tc / hdl ],[ tc / hdl ]
+Others,urine glucose,glucose
+Others,uric acid,s.uric acid ...
+Others,absolute monocyte count,absolute monocytes
+Others,hdl,hdl- cholesterol
+Others,neutrophils,"neutrophils,"
+Others,absolute basophil count,basophils
+Others,t4,t4 ( thyroxine )
+Others,bacteria,acteria
+Others,tsh,t. s. h.
+Others,ep cells,ep. cells
+Others,hematocrit,p.c.v / haematocrit *
+Others,bile salts,bile salts
+Others,others,leucocyte esterase
+Others,total protein,protiens
+Others,triglyceride/hdl ratio,triglyceride :
+Others,hba1c,glycated hemoglobin ( hba1c )
+Others,glycosylated haemoglobin,"glycosylated haemoglobin :, ( hba1c )"
+Others,rdw,red cell distribution width ( rdw - cv )
+Others,rbc,r.b.c :
+Others,cholesterol/hdl ratio,cholesterol / hdl ratio *
+Others,lymphocytes - absolute count,"band cells, lymphocytes"
+Others,globulin,globulin : -
+Others,blood urea nitrogen,blood urea nitrogan
+Others,total leucocyte count,total leaukocyte count ( tlc )
+Others,eosinophils,dc - eosinophils
+Others,cholesterol/hdl ratio,cholesterol - hdl direct
+Others,platelet count,platlet count
+Others,acetone,ketones ( acetone )
+Others,post prandial blood glucose,"glucose, post prandial ( pp ) , 2"
+Others,absolute basophil count,absolute basophils count *
+Others,rdw,rdw % =
+Others,urine protein,urine ketones ( acetone )
+Others,triglycerides,sr triglycerides
+Others,random blood sugar,"glucose, plasma"
+Others,nitrites,nitrite
+Others,sediment,"sediment,"
+Others,total protein,serum proteins
+Others,total leucocyte count,tlc / wbc count
+Others,total leucocyte count,twbc
+Others,random blood sugar,blood sugar - f
+Others,non hdl,"non - hdl cholesterol, total cholesterol |"
+Others,fasting blood sugar,f.bi.suger
+Others,specific gravity,sp. gravity
+Others,t3,tri - iodo - thyroine ( t3 )
+Others,others,normoblasts
+Others,absolute eosinophil count,absolute eosinophil
+Others,rbc,red blood cells ( rbcs )
+Others,uric acid - serum,uric acid :
+Others,sodium,na +
+Others,eosinophils,eosinophil
+Others,thyroid stimulating hormone,tsh : thyroid stimulating hormone - serum
+Others,hdl,* hdl cholesterol
+Others,acetone,urine acetone
+Others,indirect bilirubin,unconjugated ( i.d.bilirubin )
+Others,acidity (ph),urine - ph
+Others,pus cells,* pus cells
+Others,total t4:,total t4
+Others,hematocrit,haematocrit .....
+Others,hiv i ii,hiv i & ii ( elisa )
+Others,hdl,hdl cholesterol .
+Others,others,fungus
+Others,erythrocyte sedimentation rate,esr ( erythrocyte
+Others,bun/creatinine ratio,bun / creat ratio
+Others,glycosylated haemoglobin,hba1c ( glycosylated
+Others,alanine aminotransferase,sgpt - alanine
+Others,blood urea notrogen,blood urea nitrogen
+Others,pus cells,pus cell ( wbc ' s )
+Others,rbc,total r.b.c count
+Others,cholesterol/hdl ratio,total choles. / h.d.l ratio
+Others,epithelial cells,epi cells
+Others,ldl,"ldl cholesterol - ( direct ldl ) ,"
+Others,mcv,mean corpuscular vol ( mcv )
+Others,others,protein
+Others,pcv,p.c.v1
+Others,fasting blood sugar,glucose ( sugar ) fasting
+Others,lymphocytes,l -
+Others,total t4,"t4 ( thyroxine ) , serum"
+Others,protein,protein total
+Others,wbc morphology,w.b.c. morphology
+Others,glycosylated haemoglobin,hb a1c
+Others,albumin,urine albumin
+Others,alanine aminotransferase,"s.g.o.t. ( ast ), s.g.p.t. ( alt )"
+Others,monocyte,monocyte ( m )
+Others,erythrocyte sedimentation rate,esr.
+Others,absolute lymphocytes,absolute lymphocytes
+Others,tc/ hdl cholesterol ratio,total - hdl cholesterol ratio
+Others,sodium,serum sodium.
+Others,ldl,serum l.d.l. - cholesterol
+Others,uric acid,"serum uric acid, ( uricase - tops )"
+Others,average glucose value,average glucose value
+Others,glycosylated haemoglobin,glycosylated hemoglobin ( hbaic )
+Others,specific gravity,* specific gravity
+Others,fbs,f.bi.suger
+Others,hematocrit,haematocrit value ( p.c.v. )
+Others,sodium,"sodium , serum"
+Others,mch,"mean corpuscularheamoglobin,"
+Others,appearnace,appearence
+Others,direct bilirubin,serum bilirubin - direct
+Others,rbc morphology,* rbc morphology
+Others,epithelial cells,epithelial cells ( / hpf )
+Others,cholesterol/hdl ratio,total chol hdl ratio
+Others,crystals,crystal
+Others,free thyroxine,"free t4, serum"
+Others,t4,( t4 )
+Others,total leucocyte count,", total leucocytes count ( tlc )"
+Others,nitrite,nitrite
+Others,absolute basophil count,e. basophil
+Others,fasting blood sugar,serum fbs
+Others,thyroid stimulating hormone,thyroid simulating hormone - tsh
+Others,rbc,microscopic rbc ( / hpf )
+Others,basophils,dc - basophils
+Others,sodium,s. sodium ( na )
+Others,creatinine,sr. creatinine
+Others,indirect bilirubin,total indirect
+Others,thyroid stimulating hormone,ultra sensitive t.s.h.
+Others,t3,"t3, total ( tri - iodothyronine )"
+Others,urine sugar,"urine sugar, fasting"
+Others,glycosylated haemoglobin,glyco hb ( hba1c )
+Others,vitamin d,25 ohd / vitamin d
+Others,vitamin d,"25 - hydroxy vitamin d, serum"
+Others,urine protein,* protein ( urine )
+Others,urine sugar,sugar ( strip & benedict ' s )
+Others,vitamin d,"25 hydroxy, vitamin d"
+Others,vitamin d,25 ( oh ) vitamin d / d3
+Others,ldl,l. d.l. c.
+Others,neutrophils lymphocyte ratio,nl - ratio
+Others,total protein,protein serum
+Others,absolute eosinophil count,c. eosinophil
+Others,erythrocyte sedimentation rate,esr - 1 hr
+Others,others,mxd#
+Others,glycosylated haemoglobin,ghb a1 c
+Others,reaction,reaction
+Others,peripehral smear,peripheral smear examination
+Others,total lecucoyte count,corrected tlc
+Others,rdw-sd,rdw-sd
+Others,fasting blood sugar,blood glucose
+Others,albumin/globulin ratio,sr albumin / globulin ratio
+Others,phosphorous,"hr., qt / qtc., p / qrs / t axes, rvs / sv1."
+Others,parasites,"parasites, blood group, "" ab "" rh factor positive"
+Others,leucocytes,leucocytes / hpf
+Others,albumin,urine - albumin ( protein )
+Others,others,band cells
+Others,total t4,"t4 - total * ug / dl serum,clia"
+Others,absolute lymphocytes -  count,lymphocytes
+Others,total protein,"protein, total"
+Others,leucocytes,total leucocytes counts
+Others,tc/ hdl cholesterol ratio,chol / hdl cholesterol ratio
+Others,aspartate aminotransferase,sgot ( asat )
+Others,erythrocyte sedimentation rate,- in first hour
+Others,hba1c,"hba1c - glycated hb, blood by hplc"
+Others,vitamin d,25 - oh1 vitamin d3
+Others,rdw,r.d.w. :
+Others,phosphate,phosphates
+Others,ag ratio,a g ratio
+Others,platelet count,platelet -
+Others,urine sugar,fasting urine sugar
+Others,blood,blood group abo & rh typing :
+Others,glycosylated haemoglobin,"glycosylated haemoglobin, ( hba1c )"
+Others,total bilirubin,bilirubin - total
+Others,hdl cholesterol,dhdl cholesterol
+Others,others,volume
+Others,erythrocyte sedimentation rate,esr 1 hour
+Others,albumen,albumen
+Others,lymphocyte,lymphocytes :
+Others,mpv,m pv ( mean platelet volume )
+Others,total protein,sr protein - total
+Others,yeast cells,y east cells *
+Others,pale yellow,colour
+Others,epithelial cells,* epithelial cells
+Others,casts,casts ( / hpf )
+Others,hematocrit,h.c.t. / p.c.v.
+Others,hematocrit,pcv ( hematocrit )
+Others,t3,t3 - total *
+Others,calcium,serum ionic calcium ( ica )
+Others,fasting blood sugar,blood glucose ( f )
+Others,wbc morphology,wbc morphology
+Others,fasting blood sugar,fasting blood sugar(god/pod)
+Others,hematocrit,pcv / haematocrit
+Others,erythrocyte sedimentation rate,erythrocyte sedimentation rate ( esr ) *
+Others,lymphocyte,lymphocytes %
+Others,sgpt,serum sgpt ( alt )
+Others,vldl,"vldl cholesterol,calculated"
+Others,mchc,"mchc,"
+Others,others,other findings
+Others,direct bilirubin,billirubin direct
+Others,wbc,wbc
+Others,wbc morphology,wbc
+Others,rbc,rbc count ( red blood corpuscle )
+Others,t3,triiodthyronine ( t3 )
+Others,total t4,total thyroxine ( t4 )
+Others,cholesterol/hdl ratio,chol / hdl cholestrol ratio
+Others,crystals,* crystals
+Others,others,anisocytosis
+Others,albumin/globulin ratio,a / g ratio.
+Others,total leucocyte count,wbc / tlc ( total leucocyte
+Others,mch,m.c.h
+Others,basophil,basophils
+Others,haematocrit,pcv/ haematocrit value
+Others,ldl,ldl cholesterol :
+Others,vitamin d,25 oh vitamin
+Others,hematocrit,haematocrit ( hct )
+Others,others,average estimated glucose - plasma
+Others,ph reaction,ph reaction
+Others,total leucocyte count,tlc/ wbc
+Others,mchc,mchc *
+Others,reaction,reaction ph
+Others,pus cells,wbc / pus cells
+Others,mpv,m p v ( mean platelet volume )
+Others,apperance,apperance
+Others,pus cells,leucocytes/ pus cells
+Others,platelet count,platlate count
+Others,hct,hct
+Others,vitamin d,vitamin - d ( total )
+Others,leukocytes,leukocytes
+Others,ldl,ldl chole / hdl chole
+Others,gamma-glutamyl transferase,gamma glutamyl transferase ( ggt )
+Others,apperence,apperence
+Others,rbc morphology,w.b.c. morphology
+Others,serum globulin,globulin :
+Others,hdl/ldl,"hdl / ldl ratio, cholesterol"
+Others,creatinine,serum creatinene
+Others,albumin,albumin :
+Others,phosphate,amorphous phosphate
+Others,urine sugar,urine sugar - f
+Others,triglycerides,sr. triglycerides
+Others,serum creatinine,serum triglycerides
+Others,absolute basophil counts,absolute basophils
+Others,fasting blood sugar,fasting blood sugar ( plasma )
+Others,total leukocyte count,w.b.c
+Others,blood urea,blood urea - serum
+Others,ldl,* sr.ldl
+Others,cholesterol,# s.cholesterol
+Others,epithelial cells,epithelial cells ..
+Others,urine sugar,urine sugar-f
+Others,direct bilirubin,bilirubin conjugated ( direct )
+Others,pigment &salts,pigment & salts
+Others,hdl/ldl,hdl / ldl cholesterol ratio
+Others,aspartate aminotransferase,sgot ( aspartate amino
+Others,others,blood group ( abo )
+Others,mch,| mch
+Others,sodium,s.sodium ( na + )
+Others,erythrocyte sedimentation rate,* e.s.r.
+Others,urine bilirubin,urine billirubin
+Others,hdl,hdl cholesterol ( direct )
+Others,yeast cells,y east cell
+Others,triglyceride/hdl ratio,serum triglyceride
+Others,rdw,rdw cv *
+Others,thyroid stimulating hormone,serum tsh
+Others,others,urea / creatinine ratio
+Others,creatinine,volume
+Others,alanine aminotransferase,alt [ sgpt ]
+Others,quantity,volume ( ml )
+Others,sgpt,alt / sgpt
+Others,glycosylated haemoglobin,hba1c ( glycosylated haemoglobin )
+Others,vldl,sr vldl
+Others,others,microcytosis
+Others,ers,esr
+Others,others,blood group :
+Others,ketone,ketone bodies / acetone
+Others,tc/ hdl cholesterol ratio,tc / hdlc ratio
+Others,platelet count,platelet count ..
+Others,vldl,s. vldl : ( calculated )
+Others,tsh,"tsh ( thyroid stimulating, hormone )"
+Others,ldl,sr. ldl cholesterol
+Others,total leucocyte count,tlc/wbc
+Others,mchc,m.ch.c
+Others,rbc count,rbc count :
+Others,sediment,sediments
+Others,reaction,"reaction ( ph ), crystal"
+Others,hematocrit,haematocrit ( pcv )
+Others,creatinine,serum creatinine ( serum )
+Others,casts,urine - casts
+Others,cholesterol,total cholesterol ( tc )
+Others,absolute neutrophil count,neutrophils
+Others,blood urea nitrogen,bun *
+Others,cholesterol total,cholesterol
+Others,leucocytes,total leucocytes count
+Others,leucocyte count,total leukocyte count :
+Others,rbc,r.b.c.count
+Others,haemoglobin,hemoglobin ( hb )
+Others,total t3,total triiodothyronine t3
+Others,platelet morphology,platelet
+Others,hdl,hdl cholesterol :
+Others,erythrocyte sedimentation rate,after 1 hour
+Others,bile pigment,pigments & sals
+Others,specific gravity,sp.gravity
+Others,estimated average glucose,average estimated glucose - plasma
+Others,epithelial cells,epith. cells
+Others,vitamin d,25 - hydroxy vitamin d
+Others,platelet count,tpc
+Others,total leucocyte count,total leukocytes count ( tlc )
+Others,vitamin d,25 - oh vitamin d3
+Others,t3,total t3
+Others,creatinine,"creatinine, serum"
+Others,tc/ hdl cholesterol ratio,tc / hdl cholesterol ratio
+Others,total leucocyte count,tlc ( wbc )
+Others,leucocytes,pus cell ( wbc ' s )
+Others,cholesterol/hdl ratio,s.cholesterol / hdlc ratio
+Others,sodium,sodium
+Others,albumin/globulin ratio,serum alb / globulin ratio
+Others,neutrophils lymphocyte ratio,neutrophil lymphocyte ratio ( nlr )
+Others,total leucocyte count,total
+Others,bilirubin indirect,bilirubin ( indirect )
+Others,urine nicotine,urine nicotine
+Others,others,mxd%
+Others,immature granulocytes,immature granulocyte percentage ( ig % )
+Others,total leucocyte count,total leukocyte count ( tlc )
+Others,t3,total triiodothyronine
+Others,total leucocyte count,total leucocyte count ......
+Others,indirect bilirubin,biliribin indirect
+Others,mcv,pmcv
+Others,total bilirubin,serum bilirubin ( total )
+Others,neutrophil count,neutrophil
+Others,cholesterol - total,cholesterol - total
+Others,total leucocyte count,wbc/tlc
+Others,urea/ceratinine ratio,urea \ creatinine retio
+Others,casts,asts
+Others,hematocrit,hematocrit value ( hct )
+Others,fasting blood sugar,glucose ( f )
+Others,red blood cells,red blood cells ( rbc )
+Others,urine sugar,sugar f.
+Others,hdl,sr. hdl cholesterol
+Others,vitamin d,"vitamin d - 25 hydroxy,"
+Others,indirect bilirubin,unconjugated
+Others,platelet in smear,"rbc morphology, platelet on smear"
+Others,rbc,rbc count ...
+Others,cholesterol/hdl ratio,chol / hdl ratio
+Others,urine sugar,urine for glucose
+Others,alkaline phosphatase,alkaline phosphatase ( total )
+Others,ldl,ldl cholesterol direct *
+Others,mean plasma glucose,glucose ( f )
+Others,crystals,- crystals
+Others,quantity,quantity
+Others,ldl,ldl- cholesterol
+Others,total leucocyte count,total area
+Others,basophils,bashophil
+Others,alkaline phosphatase,s. alkaline phosphotase
+Others,rbc,red blood cells *
+Others,appearancy,appearence
+Others,urine sugar,urine glucose fasting
+Others,rbc,rbc .....
+Others,total protein,s. protein
+Others,h.c.t. / p.c.v.,h.c.t. / p.c.v.
+Others,total leucocyte count,wbc total count
+Others,protein,protein
+Others,mcv,"mcv, mch"
+Others,alkaline phosphatase,s.alkaline phosphatase
+Others,urine sugar,urine glucose ( sugar ) *
+Others,uric acid,uric acid :
+Others,amorphous debris,amorphous materials
+Others,platelet count,"platelet count ,"
+Others,others,hepatitis b surface antigen
+Others,epithelial cells,epi.cells / hpf
+Others,indirect bilirubin,"bilirubin ( indirect ) , serum"
+Others,fasting blood sugar,blood sugar f
+Others,sediment,sediment :
+Others,bile pigments,bile pigments
+Others,potassium,* potassium
+Others,absolute basophil count,absolute basophil count 0.02
+Others,bilirubin total,total lipids :
+Others,urine protein,urine protein ( albunin )
+Others,ldl/hdl ratio,l.d.l. / h.d.l. ratio
+Others,thyroid stimulating hormone,thyroid stimulating
+Others,blood,abo type
+Others,glucose fasting,blood gulcose fasting
+Others,rdw,r.d.w. ( cv )
+Others,basophils,basophiles
+Others,sodium,serum sodium ( na + )
+Others,direct bilirubin,sr bilirubin direct
+Others,blood,* blood
+Others,blood urea,b.urea
+Others,t3,"* t3, total"
+Others,total bilirubin,bilirubin ( total )
+Others,blood urea,# blood urea level
+Others,potassium,sr. potassium
+Others,others,rh typing
+Others,blood urea nitrogen,bun ( blood urea nitrogen ) * [ serum ]
+Others,acetone,urinexetones ( acrtone )
+Others,alanine aminotransferase,sgpt / alanine aminotransferase ( alt )
+Others,appreance,appearence
+Others,cast,casts
+Others,specific gravity,urine specific gravity
+Others,others,"hba1c, glycated hemoglobin ,"
+Others,erythrocyte sedimentation rate,esr at 1 hr
+Others,mch,mean corp hb ( mch )
+Others,uric acid,serum creatinine
+Others,haemoglobin,"hba1c, glycated hemoglobin ,"
+Others,rbc,rbc s
+Others,epithelial cells,epethelial cells
+Others,thyroid stimulating hormone,thyroide stimulating hormone ( tsh )
+Others,post prandial blood glucose,"glucose, post - prandial, plasma"
+Others,alanine aminotransferase,alanine transaminase ( sgpt )
+Others,eosinophils,eosinophills
+Others,blood urea,sr urea
+Others,serum bilirubin conjugated,conjugated ( d.bilirubin )
+Others,neutrophil,neutrophil ( n )
+Others,absolute,absolute lymphocytes
+Others,potassium,s.potassium ( k + )
+Others,epithelial cells,urine - epithelial cells
+Others,rbc,urine - rbc
+Others,total cholesterol/hdl ratio,total cholesterol / hdl
+Others,total leucocyte count,total wbc count - tc *
+Others,alanine aminotransferase,serum sgpt ( alt )
+Others,absolute neutrophil count,absolute neutrophils
+Others,cholesterol/hdl ratio,choloesterol : hdl cholesterol
+Others,vldl,"vldl cholesterol, calculated"
+Others,monocytes,dc - monocytes
+Others,others,serum
+Others,eosinophils,eosinophiis
+Others,rbc's,red blood cells / hpf
+Others,albumin,serum albumin
+Others,blood sugar fasting,fasting blood sugar
+Others,random blood sugar,average blood glucose
+Others,aspartate aminotransferase,aspartate aminotransferase | sgot
+Others,reaction,reaction / ph
+Others,others,glycosylated
+Others,blood,"max heart rate, max blood pressure"
+Others,ldl/hdl ratio,ldl/hdl
+Others,mucus,mucous thread :
+Others,wbc,white blood cells
+Others,absolute basophils count,basophils
+Others,erythrocyte sedimentation rate (esr) (1 hr),after 1 hour :
+Others,albumin/globulin ratio,a.g. ratio
+Others,estimated average glucose,est. average glucose
+Others,urine glucose,urine sugar
+Others,ldl cholesterol,l.d. l.c.
+Others,random blood sugar,blood sugar = random
+Others,hemoglobin,hgb
+Others,blood,occult blood
+Others,rdw,rdw ( red cell distribution width )
+Others,egfr,"egfr, g1, g2, g3a, g3b"
+Others,mcv,mean cell volume ( mcv ) *
+Others,fasting blood sugar,"glucose, fasting ( f ) , plasma"
+Others,mcv,m.c.v
+Others,mchc,mchc) mean corpuscular haemoglobin concentration)
+Others,glycosylated haemoglobin,"none, hba1c value ( % )"
+Others,crystals,crystal.
+Others,p.c.v,p. c.v.
+Others,albumin,sr protein - albumin
+Others,mean corp hb ( mch ),mean corp. hb ( mch )
+Others,fasting blood sugar,sugar - fasting
+Others,cholesterol/hdl ratio,* t.c / hdl
+Others,others,bilirubin
+Others,erythrocyte sedimentation rate,erythrocytes sedimentation rate :
+Others,erythrocyte sedimentation rate,esr (wintrobe)
+Others,total lecuocyte count,total leucocytes count ( tlc ) -
+Others,rdw-sd,rdw - sd.
+Others,alkaline phosphatase,protein
+Others,absolute neutrophil count,absolute neutrophil count *
+Others,sodium,sodium - serum
+Others,leucocyte,leucocyte
+Others,haemoglobin,* haemoglobin ( hb )
+Others,vitamin d 25 hydroxy,vitamin d total ( 25 hydroxy
+Others,erythrocyte sedimentation rate,e.s.r. at the end of thr :
+Others,total leucocyte count,corrected tlc
+Others,blood,blood group & rh factor
+Others,estimated average glucose,estimated average glucose :
+Others,vldl,vldl
+Others,quantity,"quantity,"
+Others,absolute,lymphocytes
+Others,lymphocyte,lymphocytes ...
+Others,creatinine,s. creatinine ..
+Others,estimated average glucose,estimated average blood
+Others,others,glycosylated ( hb a1c )
+Others,bile salt,bile pigments & bile salt
+Others,potassium,ser. pottassium
+Others,yeast cells,yeast buds
+Others,triglycerides,triglycerides level
+Others,ldl/hdl ratio,. dl / hdl ratio
+Others,vitamin d,"vitamin d, 25 hydroxy"
+Others,absoulte neutrophils count,absolute neutrophils
+Others,protine,protine
+Others,glycosylated haemoglobin,gycosylated haemoglobin
+Others,eosinophil,eosinophil ( e )
+Others,fasting blood sugar,fbs .....
+Others,oters,blood
+Others,creatinine,creatinine serum
+Others,amorphous debris,amorphous phosphate
+Others,sp. gravity,sp gravity
+Others,cholesterol total,serum cholesterol - total
+Others,hdl cholesterol,"hdl - cholesterol , serum"
+Others,amorphous debris,a morphous deposits *
+Others,vitamin d,serum vitamin d 3 ( 25 0 h )
+Others,total t4,thyroxide - total ( tt4 )
+Others,ldl cholesterol,dldl cholesterol
+Others,total t4,"* t4, total"
+Others,rbc's,rbc's
+Others,erythrocyte sedimentation rate,e.s.r ...
+Others,epithilial cells,epithilial cells
+Others,mchc,mean corp. hb conc. ( mchc )
+Others,cholesterol,cholesterol ( total )
+Others,gamma-glutamyl transferase,gamma g. t.
+Others,others,h.i.v. ii
+Others,fasting blood sugar,plasma glucose fasting
+Others,haemoglobin (hb),"hemoglobin,"
+Others,erythrocyte sedimentation rate,e. s. r
+Others,ldl cholesterol,ldl cholesterol ( calculated ) *
+Others,mch,mean cell haemoglobin ( mch ) *
+Others,leucocytes,wbc count
+Others,total leucocyte count,tlc ( total leucocyte count )
+Others,urine sugar,glucose *
+Others,bun/creatinine ratio,bun / creatinine ratio
+Others,absolute eosinophils count,absolute eosinophils
+Others,bile pigment,* bile pigments
+Others,erythrocyte sedimentation rate,"esr ( * westergren, 1 hr. )"
+Others,colour,* colour
+Others,total leucocyte count,total leucocytes count :
+Others,eosinophils,eosino phils
+Others,estimated average glucose,average plasma glucose
+Others,total t4,t4 - total
+Others,triglyceride/hdl ratio,s.triglycerides / hdl chole
+Others,total leucocyte count,total wbc varachha
+Others,indirect bilirubin,sr bilirubin indirect
+Others,mch,mean corpuscular hb con.
+Others,pdw,pdw
+Others,others,blood group ( abo typing )
+Others,erythocyte sedmentation rate,erythrocyte sed.rate ( win )
+Others,blood glucose random,blood glucose ( random )
+Others,creatinine,creatinine .
+Others,potassium,serum potassium ( k )
+Others,total cholesterol/hdl ratio,total cho / hdl. ratio
+Others,others,lym#
+Others,albumin/globulin ratio,a / g ratio
+Others,others,polychromasia
+Others,absolute eosinophil count,absolute eosinophil count ( aec )
+Others,others,reducing sugar
+Others,triglycerides,triglyceride
+Others,bilirubin total,"bilirubin, total"
+Others,gamma-glutamyl transferase,gamma g.t.
+Others,eosinophiles,eosinophiles
+Others,rdw,red cell distribution width
+Others,ketones,urine - ketones
+Others,specific gravity,specific gravity
+Others,erythrocyte sedimentation rate (esr),esr ( whole blood )
+Others,haemoglobin,haemoglobin.
+Others,thyroid stimulating harmone,tsh
+Others,neutrophils,neutrophils ...
+Others,indirect bilirubin,unconjugated ( indir ) bilirubin
+Others,total bilirubin,serum bilirubin total
+Others,total bilirubin,"serum bilirubin, total"
+Others,absolute basophil count,absolute basophils
+Others,ldl,"ldl cholesterol, calculated"
+Others,hematocrit,pcv / haematrocrit
+Others,absolute eosinophil count,absolute eosinophils count ( aec )
+Others,vldl cholesterol,vldl cholesterol - serum
+Others,epith. cells,epith.cells
+Others,leukocyte,leukocyte
+Others,hematocrit,pc.v / haematocrit
+Others,cholesterol,s.cholesterol / hdlc ratio
+Others,globulin,sr protein - globulin
+Others,vitamin d,25 (oh) vitamin d
+Others,bile pigment,urine - bile pigments
+Others,ldl,low density lipid
+Others,cholesterol,"total cholesterol, chod / pod"
+Others,cholesterol/hdl ratio,t.c. / hdl
+Others,absolute eosinophil count,absolute eosinophils
+Others,absolute neutrophil count,a. neutrophil
+Others,rbc morphology,rbc morphology
+Others,total t4,"thyroxine ( t4, total )"
+Others,potassium,potasium ( k + )
+Others,rbc,rbc count ( red blood cell count )
+Others,total protein,total - protien ..
+Others,mcv,m.c.v.
+Others,total leukocyte count,white blood cell count
+Others,phosphorous,g.g.t.p.
+Others,rbc,red blood cell ( rbc )
+Others,cholesterol,sr. cholesterol - total
+Others,sp. gravity,specific gravity
+Others,cholesterol/hdl ratio,"chol / hdl ratio, total cholesterol, triglycerides, ldl, hdl, non - hdl cholesterol"
+Others,total cholesterol/hdl ratio,t. cholesterol / hdl ratio
+Others,erythrocyte sedimatation rate,e.s.r
+Others,cholesterol,total cholesterol serum
+Others,esr,esr at 1 hr
+Others,chloride,chloride *
+Others,ldl,s. l.d.l.
+Others,fasting blood sugar,fasting
+Others,pus cells,pus cells
+Others,total leucocyte count,wbc ' s
+Others,gamma-glutamyl transferase,ggt.
+Others,mch,mch ( mean corpuscular hamoglobin )
+Others,average glucose value for the last 3 months,average glucose value
+Others,globulin,"globulin, serum"
+Others,urine protein,protien
+Others,thyroid stimulating hormone (tsh),thyroid stimulating
+Others,pus cells,rbcs cells
+Others,ketone,ketone *
+Others,ldl,hdl / ldl cholesterol ratio
+Others,others,proteins
+Others,albumin,s. albumin
+Others,platelet count,platelets :
+Others,gamma glutamyl transpeptidase,"ggtp : gamma glutamyl transpeptidase -, s.urea, s.creatinine, s.uric acid"
+Others,chloride,serum chloride ....
+Others,esr,erythrocyte sedimentation rate ( esr )
+Others,mch,mean corpuscular hb con
+Others,bun/creatinine ratio,bun / cretinine ratio
+Others,vitamin d,vitamin d ( 25 - hydroxy ) *
+Others,thyroid stimulating hormone,"sensitivetsh, serum"
+Others,epithelial cells,epithelial. cell
+Others,total leucocyte count,total leucocyte
+Others,cholesterol/hdl ratio,chol. / hdl ratio
+Others,epithelial cells,epith cells
+Others,albumin/globulin ratio,a / g
+Others,thyroid stimulating hormone,"cholesterol / hdl ratio, thyroid stimulating hormone"
+Others,basophils,basophils *
+Others,random blood sugar,blood sugar level ( f )
+Others,absolute monocytes count,monocytes
+Others,alkaline phosphatase,alka - phos.
+Others,erythrocyte sedimentation rate,esr edta
+Others,hematocrit,"hct / haematocrit , edta"
+Others,leucocytes,leucocyte cells
+Others,haemoglobin,haematocrit ( hct )
+Others,alkaline phosphatase,"alkaline, phosphatase"
+Others,rbc's,red blood cell
+Others,absolute eosinophil count,absolute eosinophil count *
+Others,cholesterol/hdl ratio,total cholesterol/hdl ratio
+Others,others,any other abnormality
+Others,colour,urine - colour
+Others,deposit,deposit *
+Others,vldl,vldl- cholesterol
+Others,absolute eosinophils count,eosinophils
+Others,basophils,b
+Others,wbc count,total wbc count :
+Others,colour,color : -
+Others,yeast cells,yest cells
+Others,glycosylated haemoglobin,glycosylated haemoglobin ( hba1c )
+Others,dlc,p -
+Others,bun/creatinine ratio,serum bun / cre ratio
+Others,potassium,"potassium, serum"
+Others,ketones,ketones ( rothera ' s )
+Others,leucocyte,leucocyte esterase
+Others,bun/creatinine ratio,bun creatinine ratio :
+Others,rbc's,r. b. c.
+Others,absolute lymphocyte count,absolute lymphocyte
+Others,total leucocyte count,tc ( total count ) ( automated
+Others,total rbc count,total rbc count
+Others,mchc,mean corpuscular hb concn.
+Others,phosphorous,s.g.p.t.
+Others,total leucocyte count,white blood cell count
+Others,vitamin d,vitamin d ( 25 hydroxy ) * *
+Others,haemoglobin,hamoglobin
+Others,mchc,mchc : -
+Others,potassium,s. potassium ( k + )
+Others,clarity,clearity
+Others,crystals,amorphous phosphate
+Others,calcium,"calcium , serum"
+Others,vitamin d,vitamin us ( 25 - 08 ) )
+Others,thyroid stimulating hormone (tsh),tsh - ultrasensitive
+Others,rbc,rbcs :
+Others,ph,reaction ( ph )
+Others,specific gravity,specific gravity :
+Others,thyroid stimulating hormone (tsh),thyroid stimulating harmones ( tsh )
+Others,appearance,appearance and colour
+Others,haemoglobin,glycated haemoglobin ( hba1c )
+Others,potassium,serum pottassium
+Others,cholesterol/hdl ratio,total/hdl cholesterol ratio
+Others,hematocrit,hct ( haematocrit )
+Others,hematocrit,packed cell volume ( pcv ) *
+Others,pus cells,pus cells ( leucocytes )
+Others,absolute basophils count,absolute basophils
+Others,others,triple phosphate
+Others,hdl,"hdl - cholesterol , serum"
+Others,erythrocyte sedimentation rate,e.s.r
+Others,absolute lymphocyte count,absolute lymphocytes
+Others,ketone,urine ketones ( random )
+Others,hdl,r.b.c. count
+Others,tsh: thyroid stimulating hormone - serum,"tsh ( thyroid stimulating, hormone )"
+Others,esr,e. s. r
+Others,calcium,calcium ( total )
+Others,triglycerides hdl ratio,triglycerides hdl ratio
+Others,polymorphs,"polymorphs, lymphocytes"
+Others,t4,thyoxine [ t4 ]
+Others,hdl cholesterol,h.d. l. c
+Others,gamma-glutamyl transferase,gamma - gt
+Others,post prandial glucose,"glucose (sugar)pp, fluride"
+Others,others,"vitamin d ( 25 - oh vitamin d ) , serum"
+Others,thyroid stimulating hormone (tsh),thyroid stimulating hormone
+Others,haemoglobin,"h b,"
+Others,hdl,h.d.l.
+Others,direct bilirubin,conjugated ( d. bilirubin )
+Others,erythrocyte sedimentation rate,"e.s.r. 1 "" hour"
+Others,rbc,white blood cells
+Others,urobilinogen,urobilinogen ( 1 : 20 dilution )
+Others,uric acid,uric acid *
+Others,total bilirubin,sr bilirubin total
+Others,rbc,h.e.c. count
+Others,mcv,"mcv , edta"
+Others,triglycerides,haematocrit ( hct )
+Others,wbc morphology,wbcs
+Others,fasting blood sugar,"glucose ( sugar ) fasting,, fluoride plasma, glucose ( sugar ) pp, fluoride 101.5, plasma pp / r"
+Others,haemoglobin,hemoglobin :
+Others,others,platelets
+Others,t3,"free t3, serum"
+Others,rbc,"total r,b.c count"
+Others,rbc,r b c ( red blood cell count )
+Others,mpv,mean platelet volume ( mpv ) *
+Others,ldl/hdl,ratio of ldl / hdl
+Others,thyroid stimulating hormone,"tsh, t3, tsh"
+Others,protein total - serum,t3 - total
+Others,pus cells,pus cells ..
+Others,vitamin d,"* vitamin d, 25 hydroxy"
+Others,bacteria bile pigment,nitrite
+Others,other findings,other findings
+Others,others,amorphous phosphate
+Others,alanine aminotransferase,"sgpt ( alt ) , serum"
+Others,glycosylated haemoglobin,glycosylated hemoglobin
+Others,mean corp hb conc ( mchc ),mean cell hb conc ( mchc )
+Others,ldl/hdl ratio,* ldl / hdl
+Others,chloride,"chloride,"
+Others,total protein,serum protein
+Others,vldl,s. v.i. d. l
+Others,hemoglobin,heamoglobin
+Others,chloride,c ) chloride
+Others,haemoglobin,haemoglobin - hb *
+Others,alkaline phosphatase,s. alk. phosphatase
+Others,absoulte basophils count,absolute basophils
+Others,sediment,urine sediment
+Others,nitire,nitrite
+Others,total leucocyte count,wbc ( white blood cell )
+Others,vldl,"vldl cholesterol, serum"
+Others,direct bilirubin,conjugated
+Others,total : hdl ratio,total : hdl ratio
+Others,potassium,s.potassium
+Others,phosphate,alk phosphate
+Others,others,basophilic stippling
+Others,erythrocyte sedimentation rate,esr ( wg method ) after one hr.
+Others,aspartate aminotransferase,sgot / aspartate aminotransferase ( ast )
+Others,hematocrit,puked cell volume gilt )
+Others,free thyroxine,thyroxine [ 74 ]
+Others,total bilirubin,total bilirubin
+Others,hematocrit,hematrocrit ( pcv )
+Others,total leucocyte count,total leucocytes count ( tlc ) -
+Others,erythrocyte sedimentation rate,"esr [ westergren ] , na - citrate"
+Others,crystals,crystals / hpf
+Others,specific gravity,"specific gravity, chemical"
+Others,triglycerides,"triglycerides, gpo - pap"
+Others,cholesterol,total cholesterol- serum
+Others,cholesterol/ hdl cholesterol ratio,chol / hdl cholesterol ratio
+Others,phosphorous,blood group ; - p
+Others,neutrophils,neutrophils *
+Others,monocytes,monocytes ...
+Others,calcium,serum calcium
+Others,erythrocyte sedimentation rate,esr - 1 / 2 hr
+Others,rbc,rbc -
+Others,creatinine,serum creatine
+Others,ldl,"ldl cholesterol,serum"
+Others,crystals,cyrstals
+Others,random blood sugar,mean blood glucose levelmean blood
+Others,urine  glucose,glucose
+Others,blood,blood group :
+Others,hdl,s. hdl
+Others,sgot,s.g.ot
+Others,others,total lipid
+Others,blood urea nitrogen,blood urea nitrogen ( bun ) *
+Others,ldl,s.ldl ...
+Others,total t4,"thyroxine, total ( t4 )"
+Others,blood urea nitrogen,"blood urea nitrogen ( bun ) .,"
+Others,cholesterol/hdl ratio,cholesterol hdl ratio
+Others,ldl/hdl ratio,"ldl chol / hdl chol ratio,"
+Others,mchc,mean corpuscular heamoglobin concentration
+Others,specific gravity,specifc gravity
+Others,total protein,total protein : -
+Others,micro organisms,organisms
+Others,sgpt,sgpt ( alt )
+Others,urine sugar,glucose pp
+Others,cholesterol,"cholesterol, total cholesterol"
+Others,rbc,erythrocyte ( rbc ) count *
+Others,monocytes,monocytes *
+Others,mchc,m.c.h.c.
+Others,fasting blood glucose,glucose fasting
+Others,tc/ hdl cholesterol ratio,t.cholesterol / hdl cholesterol ratio
+Others,hematocrit,c / haematocrit :
+Others,hematocrit,hematocrit ( hct )
+Others,t3,trliodothyronine [ t 3 ]
+Others,transparency,transparency ( appearance ) *
+Others,rbc,r.b.c. / hpf
+Others,absolute neutrophil count,absolute neutrophil count ( anc )
+Others,mcv,mc v ( mean corp volume )
+Others,erythrocyte sedimentation rate,esr 2 hrs
+Others,blood sugar,blood sugar ( p.p. )
+Others,random blood sugar,"glucose, plasma random"
+Others,cholestero,cholesterol
+Others,albumin,albumin ....
+Others,glycosylated haemoglobin,glycosylated hemoglobin (hba1c)
+Others,crystal,", crystal"
+Others,epithilal cells,epi cells.
+Others,t3,total t3 ( tri - iodo thyronine ) ( eclia )
+Others,others,total volume
+Others,others,reaction
+Others,neutrophils,neutrophil
+Others,vitamin d. 25 hydroxy,25 - hydroxy vitamin d
+Others,hdl,s. hdl cholesterol
+Others,pus cells,wbc / pus cells ( / hpf )
+Others,acidic ph,ph ( reaction )
+Others,reaction,reaction ( ph )
+Others,cholesterol,"cholesterol, total"
+Others,ketones,urine ketones ( acetone )
+Others,colour,colour vision
+Others,t4,t 4 ( thyroxine )
+Others,bacteria,urine bacteria
+Others,plateletet count,platelet count
+Others,bacteria,"bacteria,"
+Others,bile salt,bile salt : -
+Others,others,abo system
+Others,rdw,r.d.w.sd
+Others,cholesterol,cholesterol
+Others,hba1c,hba1c glycosilated haemoglobin
+Others,s.cholesterolhdl ratio,s.cholesterolhdl ratio
+Others,crystals,crystals : -
+Others,sodium,"sodium, serum"
+Others,phosphorus,inorganic phosphorus
+Others,vldl,v l dl - cholesterol
+Others,hdl- cholesterol-serum,hdl cholesterol - serum
+Others,hemoglobin,hb
+Others,urine albumin,albumin
+Others,calcium,"calcium, serum"
+Others,casts,cast
+Others,aspartate aminotransferase,aspartate aminotransferase ( sgot )
+Others,rbc's,red blood cells ( rbc )
+Others,free tri-iodothyronine,"free t3, serum"
+Others,mch,mean corpuscular haemoglobin ( mch )
+Others,platelet count,platelets count
+Others,cast,cast *
+Others,rbc's,red blood cells ( rbcs )
+Others,appearance,appearence
+Others,rbc,rbc count *
+Others,sodium,na + ( sodium )
+Others,platelet morphology,platelets
+Others,erythrocyte sedimentation rate,esr after 1 hour
+Others,t3,triiodothyronine ( t3 )
+Others,total protein,total proteins
+Others,gamma-glutamyl transferase,"ggtp ( gamma gt ) ,"
+Others,cholesterol,"cholesterol, serum"
+Others,a g ratio,a / g
+Others,others,platelet in smear
+Others,calcium,i calcium
+Others,reaction,reaction :
+Others,platelet count,platelet count *
+Others,uric acid,s uric acid
+Others,hdl,dhdl cholesterol
+Others,total leucocyte count,"wbc / tlc ( total leucocyte, rbc"
+Others,chloride,cl -
+Others,hematocrit,hct ( hematocrit ) / pcv
+Others,sodium,serum sodium ...
+Others,alanine aminotransferase,sgpt ( alanine amino
+Others,platelet count,p - lcr ( platelet large cell ratio )
+Others,others,mean blood glucose level
+Others,total protein,total probin
+Others,rbc,rbc's
+Others,ldl,s.ldl - cholestrol ( direct )
+Others,random blood sugar,random glucose
+Others,total protein,protein - total
+Others,basophils,basophil
+Others,parasites,malarial parasite
+Others,appearance,appearance :
+Others,cholesterol,sr cholesterol
+Others,triglycerides,s. triglycerides :
+Others,polymorphs,ploymorphs
+Others,eosinophils,"e -,"
+Others,vldl,s. v.l . d. l
+Others,rdw-sd,rdw - sd
+Others,blood urea nitrogen,urea nitrogen ( bun )
+Others,m.c.v,m.c.v.
+Others,erythrocyte sedimentation rate,erythrocyte sedimentation
+Others,rbc,red cell blood count
+Others,albumin creatinine ratio,albumin creatinine ratio
+Others,platelet count,eosinophil
+Others,monocytes,"monocytes, basophils"
+Others,parasites,parasite
+Others,post prandial blood glucose,blood glucose post pandrial
+Others,others,non hdl cholesterol
+Others,hematocrit,p.c.v :
+Others,leucocyte count,total leucocytic
+Others,triglycerides,"triglycerides, lpl / gk, colorimetric"
+Others,alanine aminotransferase,serum s.g.p.t
+Others,others,"esr [ westergren ] , na - citrate"
+Others,transparency,transparency
+Others,direct bilirubin,bilirubin - direct
+Others,glycosylated haemoglobin,glycosylated haemoglobin % ( hba1c )
+Others,leucocytes,total leucocytes count :
+Others,platelets,plt
+Others,platelet count,* platelet count
+Others,albumin/globulin ratio,alb : glb
+Others,bun/creatinine ratio,bun / creatiine ratio
+Others,non hdl,"non - hdl cholesterol, serum"
+Others,estimated average glucose,estimated avg. glucose
+Others,cholesterol,total cholesterol / hdl cholesterol
+Others,total leucocyte count,wbc
+Others,sodium,serum soddium
+Others,total t4,t4 thyroxine serum or plasma
+Others,uric acid,uric acid - serum
+Others,bacterial bile pigment,bile pigments ( fouchet ' s )
+Others,rdw,rdw sd
+Others,rdw,rdw
+Others,total t3,total thyroxine ( t4 )
+Others,neutrophils,absolute neutrophils
+Others,hdl,s.hdl cholesterol
+Others,glycosylated haemoglobin,hba1c *
+Others,calcium,"serum uric acid, calcium, serum amylase, sodium"
+Others,hdl,hdl cholesterol ....
+Others,eosinophils,"eosinophils, monocytes"
+Others,t3,t3
+Others,triglycerides,s.triglycerides / hdl chole
+Others,urine sugar,reducing sugar ( urine )
+Others,haemoglobin (hb),"haemoglobin, total leucocytes count ( tlc ) - 7,800"
+Others,others,p - lcr
+Others,erythrocyte sedimentation rate,erythrocyte sed.rate
+Others,rbc's,red blood cells *
+Others,ldl/hdl ratio,ldl / hdl ratio :
+Others,fasting blood sugar,"glucose, fasting , naf plasma"
+Others,rbc morphology,rsed cell morphology :
+Others,parasites,malarial parasites
+Others,others,blood grouping
+Others,creatinine,serum creatinine *
+Others,total bilirubin,billirubin total
+Others,absolute monocyte count,monocytes - absolute count
+Others,epthelail cells,kplthekul cells
+Others,total lecucocyte,tc
+Others,erythrocyte sedimentation rate,esr level
+Others,basophils,basophils ....
+Others,vitamin d.,"25 - hydroxy vitamin d, serum"
+Others,others,poikilocytosis
+Others,others,mean blood glucose :
+Others,ldl,l.d.l.
+Others,ldl/ hdl cholesterol ratio,ldl hdl cholesterol ratio
+Others,f.b.sugar,f.b.sugar
+Others,uric acid - serum,uric acid
+Others,bacterial,bacteria
+Others,absolute monocytes count,absolute monocytes
+Others,chloride,chloride ( ci - )
+Others,vitamin d,"vitamin d ( 25 - oh vitamin d ) , serum"
+Others,bile salt,pigments and salts
+Others,rbc,erythrocytes ( rbc ' s )
+Others,fasting blood sugar,"glucose ( sugar ) fasting,, fluoride plasma"
+Others,ldl/hdl ratio,ldl / hdl cho.ratio
+Others,hematocrit,hct ( hematocrit )
+Others,erythrocyte sedimentation rate,e.s.r.
+Others,glucose fasting,blood glucose ( fasting )
+Others,mch,mch *
+Others,tc & h d l ratio,tc & h d l ratio
+Others,cho./ hdl cholesterol ratio,chol. / hdl cholesterol ratio
+Others,triglycerides,triglycerides - serum
+Others,chloride,serum chloride
+Others,potassium,k + ( potassium )
+Others,post prandial blood glucose,post meal
+Others,aspartate aminotransferase,sgot / ast : -
+Others,deposit,deposite
+Others,immature granulocytes,immature granulocytes ( ig )
+Others,procalcitonin,pct
+Others,polymorphs,polymorphs :
+Others,cholesterol/hdl ratio,serum cholesterol / hdl
+Others,t.c. / hdl,t.c. / hdl
+Others,spermatozoa,spermatozoa
+Others,alkaline phosphatase,serum alkaline phosphatase ( alp )
+Others,total cholesterol/hdl ratio,choloesterol : hdl cholesterol
+Others,absolute basophil count,absolute basophils count
+Others,cast,cast
+Others,total bilirubin,"bilirubin ( total ) , serum"
+Others,cholesterol,cholesterol :
+Others,bile pigment,bile pigments *
+Others,direct bilirubin,bilirubin ( direct )
+Others,vitamin d,"vitamin d ( 25 hydroxy ) , serum"
+Others,tc / hdlc ratio,tc / hdlc ratio
+Others,vldl,s. vldl
+Others,pus cells,pus cells/hpf
+Others,others,macrocytosis
+Others,platelet count,plateletcrit
+Others,indirect bilirubin,bilirubin - indirect.
+Others,colour,colour & appearance
+Others,ldl,low density lipid ( ldl
+Others,tc/ hdl cholesterol ratio,total / hdl cholesterol ratio
+Others,tc/ hdl cholesterol ratio,total cholesterol / hdl
+Others,rbc,"rbc,s"
+Others,uric acid - serum,c acid
+Others,creatinine,"creatinine , serum"
+Others,hematocrit,pct ( platelet hematocrit )
+Others,appearance,urine - appearance
+Others,sodium,sodium ( na + )
+Others,ph,ph
+Others,sgpt/alt,sgpt / alt ..
+Others,gamma-glutamyl transferase,gamma gt ( ggt )
+Others,potassium,serum potassium ....
+Others,total cholesterol/hdl ratio,[ tc / hdl ]
+Others,aspartate aminotransferase,serum sgot ( ast )
+Others,urine glucose,glucose ( sugar )
+Others,platelet count,total platelets count
+Others,platelet,total platelet count
+Others,thyroid stimulating hormone,tsh ( thyroid stimulating hormone )
+Others,epithelial cells,epithelial cells / h pf
+Others,aspartate aminotransferase,s.g.o.t. ( ast )
+Others,total t4,"thyroxine, total ( tt4 )"
+Others,cholesterol/ hdl cholesterol ratio,s.cholesterol / iidi ratio
+Others,ldl,ldl cholesterol direct
+Others,erythrocyte sedimentation rate,e.s.r. ( westergreen )
+Others,ldlc / hdlc ratio,ldlc / hdlc ratio
+Others,lymphocytes,lym %
+Others,casts,casts : -
+Others,pus cells,pus cells / h pf
+Others,blood urea nitrogen,serum bun / cre ratio
+Others,glycosylated hemoglobin,hba1c
+Others,cholesterol,sr. cholesterol
+Others,alkaline phosphatase,alkaline phospatase
+Others,mucus,muccus thrads
+Others,blood cells,blood cells
+Others,erythrocyte sedimentation rate,"esr ( * windrobe ) , 1 hr )"
+Others,vitamin d- 25 hydroxy,"vitamin d, 25 - hydroxy"
+Others,hdl cholesterol direct,cholesterol hdl - direct
+Others,specific gravity,sp. gr. (strip)
+Others,erythrocyte sedimentation rate,erythrocytes sedimentation rateafter 1 hour
+Others,alanine aminotransferase,sgpt ( ast )
+Others,transparency,transparency ( appearance )
+Others,potassium,"potassium , serum"
+Others,leucocyte,leucocyte/pus cell
+Others,potassium,b ) potassium
+Others,hdl,hdl cholesterol ( good cholesterol )
+Others,platelet count,platelets
+Others,pus cells,"pus cells,"
+Others,haemoglobin (hb),hb. ( haemoglobin )
+Others,alkaline aminotransferase,s.g.p.t
+Others,yeast cells,yeast cell
+Others,rdw,red cell distribution width ( rdw ) *
+Others,albumin,albumin ( strip & ssa )
+Others,mean blood glucose,mean blood glucose ( mbg )
+Others,cholesterol/hdl ratio,chol / hdl
+Others,fasting blood sugar,glicose fasting
+Others,others,am phos
+Others,leucocyte,wbc
+Others,mch,mch :
+Others,mcv,mcv ( mean corpuscular volume
+Others,25 - hydroxy vitamin d,25 - hydroxy vitamin d
+Others,cholesterol/hdl,choloesterol : hdl cholesterol
+Others,erythrocyte sedimentation rate (esr) (1 hr),erythroedimentatiote : [ e.s.r. ] [ modified westergren methodafter 1 hour
+Others,total cholestero,total cholesterol
+Others,rbc's,r b c count
+Others,hdl,serum hdl cholesterol
+Others,ldl,"l.d.l,"
+Others,rbc,trbc
+Others,total lecucoctyte count,w.b.c. count
+Others,ldl/hdl ratio,cholestrol / hdl ratio
+Others,aspartate aminotransferase,sgot ( a.s.t )
+Others,ldl cholesterol,ldl cholesterol - serum
+Others,others,leukocyte esterase
+Others,hba1c,hbaic
+Others,erythrocyte sedimentation rate,erythrocyte sedimentation rate ( e
+Others,neutrophil,neut #
+Others,ldl,s. ldl : ( calculated )
+Others,deposits,ammorphus deposits :
+Others,ketone,urine ketone - f
+Others,esr,"e. s. r, blood group :"
+Others,vldl,serum vldl *
+Others,erythrocyte sedimentation rate (esr) (1 hr),after 1 hour
+Others,glycosylated haemoglobin,glycated haemoglobin
+Others,m.c.v,m.c.v. :
+Others,indirect bilirubin,indirect billirubin
+Others,alkaline phosphatase,alkaline phoshphate
+Others,bun/creatinine ratio,bun / sr.creatinine ratio
+Others,fasting blood sugar,plasma glucose - fasting
+Others,direct bilirubin,total direct
+Others,ldl,ldl cholesterol ( bad cholesterol )
+Others,blood,blood *
+Others,others,plateletcrit ( pct )
+Others,haemoglobin (hb),mean cell hemoglobin ( mch )
+Others,blood urea,urea *
+Others,spermatozoa,spernatozoa
+Others,sodium,serum sodium
+Others,ldl,l.d.l
+Others,cholesterol/hdl rario,"chol / hdl ratio, total cholesterol, triglycerides, ldl, hdl, non - hdl cholesterol"
+Others,total wbc count,total wbc count
+Others,urine sugar,urine - glucose
+Others,cho / hdlc.ratio,cho / hdlc.ratio
+Others,reaction,ph ( reaction )
+Others,haemoglobin,"hb a1c - glycated hb, glycated haemoglobin"
+Others,random blood sugar,blood glucose ( f )
+Others,mchc,mchc :
+Others,blood urea,blood urea :
+Others,ldl/hdl ratio,cho / hdl ratio
+Others,hdl cholesterol,cholesterol :
+Others,indirect bilirubin,bilirubin ( indirect )
+Others,vldl cholesterol,mch
+Others,pus cells,ep.cells
+Others,albumin,albumen
+Others,sodium,a ) sodium
+Others,ldl,s. ldl cholesterol
+Others,hdl,hdl cholesterol - serum
+Others,total cholesterol / hdlratio .,total cholesterol / hdlratio .
+Others,total leucocyte count,r.b.c. count
+Others,mch,m ch
+Others,erythrocyte sedimentation rate,e.s.r ( westerngreen method ) - in first hour
+Others,sgpt,serum s.g.p.t
+Others,alanine transaminase,alanine transaminase
+Others,eosinophils,eosinophiles -
+Others,rdw cv,rdw cv
+Others,others,absolute polymorphs count
+Others,others,* platelet larger cell ratio ( p - lcr )
+Others,vldl,"vldl - cholesterol, lymphocytes"
+Others,urine sugar,glucose.
+Others,total cholesterol/hdl ratio,total cho / hdl ratio
+Others,nitrites,nitrate
+Others,t3,"tri - iodothyronine ( t3, total )"
+Others,others,blood group abo & rh . edta
+Others,vldl,vldl cholesterol ....
+Others,red blood cell count,rbc ( red blood cells )
+Others,triglyceride,triglyceride
+Others,t3,"triiodothyronine, total ( t3 )"
+Others,amorphous phosphate,am phos
+Others,urea - serum,"urea. , serum"
+Others,hdl,h.d. l. c
+Others,sodium,sodium *
+Others,blood urea nitrogen,bl. urea nitrogen ( bun )
+Others,t4,total t4
+Others,urine sugar,sugar : -
+Others,others,average glucose value
+Others,ldl/hdl ratio,"hdl / ldl, hdl - c"
+Others,ldl: hdl ratio,ldl: hdl ratio
+Others,total protein,serum total protien ( biuret )
+Others,reaction,reaction(ph)
+Others,estimated average glucose,estimated average plasma glucose
+Others,yeast cells,yeast
+Others,hematocrit,"packed cell, volume"
+Others,vldl,"vldl , serum"
+Others,blood sugar,blood sugar - f
+Others,bicarbonate,bicarbonate ( hco3 )
+Others,urine sugar,urine sugar ( f )
+Others,total leucocyte count,total leucocyte count ( tl )
+Others,indirect bilirubin,serum bilirubin ( indirect )
+Others,glycosylated haemoglobin,"glycosylated haemoglobin, ( average blood sugar control"
+Others,cholesterol/hdl ratio,chol. / hdl ratio :
+Others,blood urea nitrogen,blood urea nitrogen ( bun )
+Others,ldl/hdl ratio,cholesterol ldl / hdl ratio
+Others,alanine transaminase,alanine transaminase | sgpt
+Others,vldl,serum v ldl
+Others,total bilirubin,bilirubin - total.
+Others,phosphorous - serum,phosphorus serum
+Others,erythrocyte sedimentation rate,esr ( wintrobe )
+Others,globulin,serum globulin
+Others,other,other
+Others,epithelial cells,epithel cells
+Others,erythrocyte sedimentation rate,esr * [ edta ]
+Others,epithelial cells,epthelail cells
+Others,transparency,tranparency
+Others,haemoglobin,hemoglobin ( hb ) *
+Others,haemoglobin,hemoglobin %
+Others,mcv,mean corp volume ( mcv )
+Others,hdl,sr. hdl
+Others,uric acid,uric acid
+Others,triglycerides,serum triglycerides
+Others,crystals,crystals /hpf
+Others,sugar,sugar
+Others,rbc,rbc ( red blood cells )
+Others,o,band cells
+Others,potassium,potassium *
+Others,total leucocyte count,total count :
+Others,transparency,transparency ( appear
+Others,fasting blood sugar,fbs ( serum )
+Others,hdl,serum h.d.l. - cholesterol
+Others,others,basophilic strippling
+Others,direct bilirubin,serum bilirubin ( direct )
+Others,bacteria,bacteria ' s
+Others,urine protein,urine protein ( albumin )
+Others,chloride,chlorides ( ci - )
+Others,neutrophil,neutrophil
+Others,rbc,r.b.c.s
+Others,hdl,s. hdl - cholesterol ( direct )
+Others,vitamin d,vitamin d3 ( 25 - oh )
+Others,bile salts,bile salts ( hay ' s sulphur )
+Others,hdl,sr hdl
+Others,serum globulin,s. globulin
+Others,random blood sugar,mean blood glucose
+Others,urobilinogen,urobilinogen
+Others,alkaline phosphatase,alkaline phousphatase
+Others,albumin,sr albumin
+Others,erythrocyte sedimentation rate,average
+Others,tc/ hdl cholesterol ratio,total cholesterol / hdl cholesterol
+Others,lymphocyte count,lymphocytes
+Others,glycosylated haemoglobin,hba1c ( glycated hb )
+Others,urine protein,protein *
+Others,erythrocyte sedimentation rate,"esr, edta wb"
+Others,others,total lipids :
+Others,appearance,serum appearance
+Others,bun/creatinine ratio,hbalc
+Others,total leukocyte count,tlc count
+Others,ldl/hdl ratio,ldl / hdl cholesterol ratio
+Others,neutrophils lymphocyte ratio,nl ratio
+Others,phosphorous,"phosphorus, serum"
+Others,uric acid,uric acid.
+Others,urobilinogen,"bile pigments, urobilinogen"
+Others,triglyceride,triglyceride :
+Others,neutrophils,neut%
+Others,appearance,apperence
+Others,t3,t3 ( triiodothyronine )
+Others,rbc,red blood cells / hpf
+Others,urea,blood urea
+Others,hdl,hdl.cholesterol
+Others,t4,t4
+Others,albumin/globulin ratio,albumin / globulin ratio
+Others,specific gravity,urine - specific gravity
+Others,potassium,potassium ( k )
+Others,free tri-iodothyronine,free triiodothyronine
+Others,vitamin d,"vitamin d, 25 - hydroxy, serum"
+Others,mch,mean corpuscular
+Others,pus cells,pus cells ( wbcs )
+Others,gamma glutamyl transpeptidase,gamma glutamyl transpeptidase ( ggt )
+Others,blood,"blood group abo & rh,edta"
+Others,mpv,mpv ( mean platelet voi ) :
+Others,bile pigment,bile pigments
+Others,others,hypochromia
+Others,rbc,red blood cell count ( rbc )
+Others,mchc,lymphocytes
+Others,gamma-glutamyl transferase,"gamma gt, serum"
+Others,t3,t3 tridothyronine
+Others,erythrocyte sedimentation rate (esr) (1 hr),esr ( westergren )
+Others,urine sugar,* glucose
+Others,albumin/globulin ratio,s. a / g ratio
+Others,hdl,s. high density lipid ( hdl )
+Others,erythrocyte sedimentation rate,esr : after one hour
+Others,neutrophils,polymorphs ( neutrophils )
+Others,peripehral smear,peripheral smear
+Others,sodium,"glucose, random , sodium fluoride"
+Others,fasting blood sugar,blood sugar - fasting
+Others,rbc,rbc ( red blood cell )
+Others,erythrocyte sedimentation rate,esr ( westergrenes )
+Others,total protein,"total proteins, serum"
+Others,total bilirubin,"bilirubin, total"
+Others,appearance,apperance
+Others,triglycerides,s. triglycerides
+Others,aspartate aminotransferase,s.g.ot
+Others,blood urea,blood urea level
+Others,potassium,k +
+Others,chloride,"chloride , serum"
+Others,hematocrit,pvc / haematocrit :
+Others,random blood sugar,blood sugar pp
+Others,"chol / hchol / hdl ratiodl ratio, total cholesterol, triglycerides, ldl, hdl, non - hdl cholesterol",chol / hdl ratio
+Others,bacteria,bacterial flora
+Others,oxlates,cal oxlate
+Others,cholesterol,s. cholesterol :
+Others,appearence,appearence
+Others,specific gravity,sp gravity
+Others,ldl/ hdl cholesterol ratio,"ldl / hdl cholesterol ratio, ldl"
+Others,total leucocyte count,total leucocytes count ( tlc )
+Others,mcv,m cv
+Others,total lecucocyte count,total wbc count
+Others,blood,blood grouping & rh typing
+Others,ast/alt ratio,ast / alt ratio
+Others,total/hdl ratio,total : hdl ratio
+Others,absolute monocyte count,monocytes
+Others,rbc,* r.b.cs
+Others,crystals,urine - crystals
+Others,albumin / globulin ratio,albumin / globulin ratio
+Others,lymphocytes,lymphocytes
+Others,hdl cholesterol,non hdl cholesterol
+Others,neutrophils,dlc .... neutrophils
+Others,basophil count,basophil
+Others,total leucocyte count,total leucocytes count
+Others,rdw,r.d.w
+Others,uric acid,uricacid
+Others,hdl/ldl,hdl/ldl ratio
+Others,mch,mean corpuscular hgb
+Others,lymphocytes,lymphocytes %
+Others,platelet count,platelet count :
+Others,direct bilirubin,direct / conjugated bilirubin : -
+Others,absoulte eosinophils count,absolute eosinophils
+Others,bun,blood urea nitrogen
+Others,rbc morphology,r.b.c.
+Others,aspartate aminotransferase,"sgot ( ast ) , serum"
+Others,neutrophil,neut %
+Others,rbc,rbc count.
+Others,alanine aminotransferase,sgpt / alt
+Others,l bile pigment,bile pigments
+Others,mchc,mean corpuscular hb concn. ( mchc ) *
+Others,platelet count,total platelet
+Others,others,"blood group abo "" rh """
+Others,rbc,rbc : -
+Others,absolute eosinophil count,eosinophils
+Others,total cholesterol/hdl ratio,total cho. / hdl ratio
+Others,ldl,s. ldl
+Others,rdw-cv,rdw - cv :
+Others,t4,serum t4
+Others,absolute eosinophil count,eosinophils - absolute count
+Others,vitamin d,"vitamin d, 25 - hydroxy"
+Others,rbc morphology,rbcs :
+Others,alkaline phosphatase,serum alk. phosphatase
+Others,lymphocyte,lymphocyte percentage
+Others,ldl,s.low density lipid ( ldl )
+Others,total leucocyte count,total leucocytes ( wbc ) count *
+Others,absolute lymphocyte count,dc - lymphocytes
+Others,eosinophils,eosinophils *
+Others,bun/creatinine ratio,"bun, serum creatinine"
+Others,bun/creatinine ratio,ratio
+Others,average blood glucose,average blood glucose ( mg / dl )
+Others,blood urea,"urea. , serum"
+Others,total bilirubin,# total bilirubin
+Others,cholesterol,s.cholesterol
+Others,aspartate aminotransferase,sgot / ast
+Others,others,trichomonas vag.
+Others,ph,p : h
+Others,total lipids,t. lipids :
+Others,basophil,bashophil
+Others,yeast cells,yeast cells
+Others,albumin,"albumin, serum"
+Others,triglycerides,s.triglycerides
+Others,mchc,m.c.h.c.c
+Others,yeast cells,yeast cells *
+Others,uric acid - serum,uric acid - serum
+Others,others,others
+Others,ldl cholesterol,ldl - c :
+Others,ketone,keton bodies
+Others,mcv,trichomonas vag.
+Others,calcium,lonic calcium
+Others,glycosylated haemoglobin,hba1c result
+Others,mcv,mean corpuscular vol.
+Others,ast/alt ratio,sgot / sgpt
+Others,total t4,total t4
+Others,others,total lipids
+Others,lymphocyte,b. lymphocyte
+Others,t3,tri - lodothyonine total ( tt3 )
+Others,vitamin d,vitamin d- 25 hydroxy
+Others,leucocytes,t.l.c.
+Others,chol/ hdl ratio,"chol / hdl ratio,"
+Others,hdl/ldl,"hdl / ldl, total, hdl - c"
+Others,others,"estimated average glucose ( eag ) ,"
+Others,pus cells,band cells
+Others,platelet count,platelets count :
+Others,glycosylated haemoglobin,blood hb.a1c
+Others,globulin,s. globulin
+Others,vldl,vldl cholesterol - serum
+Others,fasting blood sugar,"blood sugar, fasting"
+Others,rdw sd,rdw - sd
+Others,fasting blood sugar,blood glucose ( fasting )
+Others,volume,volume *
+Others,glycosylated haemoglobin,glycosylated hemoglobin (hba1c) ifcc
+Others,rbc,r.b.c morphology
+Others,fasting blood sugar,blood sugar f.
+Others,blood,blood group ( abo typing )
+Others,hematocrit,p.c.v. ( hematocrit )
+Others,other,mean blood glucose
+Others,others,blast cells
+Others,thyroid stimulating hormone (tsh),thyroid stimulationg harmone
+Others,acetone,acetone - ketone
+Others,epithelial cells,epithelil cells :
+Others,crystals,crystal : -
+Others,phosphorous,"phosphorus , serum"
+Others,triglycerides,triglycerides : -
+Others,erythrocyte sedimentation rate,erythrocyte sedimentation rate ( esr at 1 hour )
+Others,urine sugar,sugar .....
+Others,vldl,s.vldl cholesterol
+Others,tsh: thyroid stimulating hormone - serum,tsh ( thyroid - stimulating hormone ) ( eclia )
+Others,total cholesterol/hdl ratio,ratio cholesterol / hdl
+Others,haemotocrit,p.c.v. / haematocrit
+Others,creatinine,# creatinine
+Others,others,blood group abo and rh typing
+Others,others,creastal
+Others,mpv,* mpv
+Others,total protein,serum total protein
+Others,urine sugar,glucose ( u )
+Others,triglycerides,s triglycerides
+Others,alanine aminotransferase,sgpt ( alat )
+Others,triglycerides,"triglyceride , serum"
+Others,ldl/hdl ratio,ldl / hdl
+Others,t3,"t3, total"
+Others,tc/ hdl cholesterol ratio,t. chol / hdl cholesterol
+Others,epithelial cells,epithecial cells
+Others,others,blood group and rh
+Others,estimated average glucose,estimated a verage glucose :
+Others,others,appearance & colour
+Others,ldl/hdl ratio,ldl chole / hdl chole
+Others,potassium,potassium + k *
+Others,total leucocyte count,w.b.c count
+Others,others,target cells
+Others,aspartate aminotransferase,sgot - aspartate
+Others,mchc,m.c.h.c. :
+Others,rbc's,"rcb""s"
+Others,post prandial blood glucose,"fasting blood sugar, post prandial blood sugar / rbs"
+Others,platelet count,platelet count ....
+Others,bilirubin,s. bilirubin
+Others,mchc,mean corp.hemo.conc ( mchc )
+Others,erythrocyte sedimentation rate,esr ( westergren 1st hr)
+Others,erythrocyte sedimentation rate,e.s.r. ( wintrobe )
+Others,random blood sugar,average blood sugar
+Others,erythrocyte sedimentation rate,erythrocyte sedimentation rate : -
+Others,rdw,rdw ( = anisocytosis )
+Others,others,nomoblasts
+Others,hematocrit,p c v / haematocrit
+Others,epithelial cells,epithelial / hpf
+Others,rbc,total rbc count ( rbc )
+Others,others,hiv i
+Others,urea,b.urea
+Others,albumin,albumin serum
+Others,vldl,vldl cholesterol
+Others,acetone,urine ketones ( acetone ) *
+Others,pus cells,pus cells ( wbcs ) *
+Others,chloride,serum chloride ( ci - )
+Others,total lecukocyte count,corrected tlc
+Others,rbc's,erythrocytes ( rbc ' s )
+Others,total cholesterol/hdl ratio,cho / hdlc.ratio
+Others,thyroid stimulating hormone,tsh thyroid stimulat. hormone
+Others,hematocrit,pcv.
+Others,glycosylated haemoglobin,"glycosylated hemoglobin, ( hba1c ) , edta wb - gc"
+Others,ketone,"urine ketone, fasting"
+Others,phosphorous,p.c.v1
+Others,others,nl - ratio
+Others,blood urea nitrogen,bun ( blood urea nitrogen )
+Others,epithelial cells,epithelial : -
+Others,blood group,blood group :
+Others,gamma-glutamyl transferase (ggt),gamma glutamyl
+Others,reaction,reaction ..
+Others,sgpt,sgpt ( alt ) - serum
+Others,chloride,"chloride, serum"
+Others,appearance,apperance :
+Others,albumin,albumin ( protein )
+Others,triglycerides,triglycerides
+Others,rbc,r.b.c. :
+Others,crystals,ystals
+Others,urobilirubine,urobilirubine
+Others,direct bilirubin,conjugated ( direct ) bilirubin
+Others,uric acid,s.uric acid
+Others,gamma-glutamyl transferase,gamma gt ( ggtp )
+Others,vldl,sr. vldl cholesterol
+Others,vldl,vldl :
+Others,hdl,"hdl cholesterol, serum"
+Others,bacteria,bacteria : -
+Others,erythrocyte sedimentation rate,"e.s.r, at 1 hr :"
+Others,pus cells,pus cells / hpf
+Others,mchc,mean corpuscular hemoglobin
+Others,vitamin d,25 ( oh ) vitamin d total
+Others,random blood glucose,"glucose, plasma"
+Others,gamma glutamyl transpeptidase,ggt - gamma glutamyl
+Others,glycosylated haemoglobin,glycosylated haemoglobin ( hba1c ) : :
+Others,pus cells,fus
+Others,erythrocyte sedimentation rate (esr) (1 hr),esr after 1 hour :
+Others,neutrophils,neutrophilis
+Others,hematocrit,pcv ( packed cell volume )
+Others,total leucocyte count,total lipids
+Others,leucocytes,wbc -
+Others,bacteria,bacteria *
+Others,bile salt,urine - bile salts
+Others,free thyroxine,free thyroxine ( ft4 )
+Others,rbc,rbc ' s
+Others,others,blast cells ..
+Others,bun/creatinine ratio,urea / sr.creatinine ratio
+Others,urine routine glucose,mean glucose
+Others,fasting blood sugar,glucose fasting *
+Others,direct bilirubin,"bilirubin ( direct ) , serum"
+Others,indirect bilirubin,serum bilirubin - indirect
+Others,specific gravity,sg
+Others,total t4,total t4 ( thyroxine ) ( eclia )
+Others,total leucocyte count,tlc : total leucocyte count
+Others,yeast cells,budding yeast
+Others,uric acid - serum,# uric acid
+Others,hiv,h.i.v. ii
+Others,sgot (ast),sgot / ast.
+Others,others,pbf
+Others,alkaline phosphatase,sr alkaline phosphatase
+Others,rbc,rbc. count
+Others,albumin,"albumin, a / g ratio"
+Others,absolute neutrophils count,neutrophils
+Others,bile pigment,bilirubin bile pigment *
+Others,urea/ceratinine ratio,serum urea / crea
+Others,basophil,baso.
+Others,others,neutrophil lymphocyte ratio
+Others,vldl,s. vldl cholesterol
+Others,thyroid stimulating hormone,[ tsh ]
+Others,rbc,total erythrocyte count :
+Others,uric acid,s. uric acid
+Others,chloride,s.chlorides ( ci - )
+Others,gamma glutamyl transpeptidase,gama gt ( ggtp ) : -
+Others,ph,ph ( strip )
+Others,indirect bilirubin,billirubin indirect
+Others,thyroid stimulating hormone,tsh *
+Others,glycosylated haemoglobin,* hba1c
+Others,sp. gravity,sp.gravity
+Others,random blood sugar,abg ( average blood glucose
+Others,cast,hyaline cast
+Others,monocyte,d. monocyte
+Others,blood urea nitrogen,blood urea nitrogen bun
+Others,mch,mch.edta
+Others,haemocrit,pcv
+Others,chloride,serum chloride ( cl - )
+Others,potassium,potassium ( k + )
+Others,blood,blood group abo and rh typing
+Others,reaction,reaction ( ph ) *
+Others,hematocrit,packed cell volume ( hct )
+Others,cholesterol,"total cholesterol , serum"
+Others,blood urea,serum urea ( bun )
+Others,mchc,mean corpuscular hb con.
+Others,cholesterol/hdl ratio,sr cho / hdl ratio
+Others,sodium,sodium ( na )
+Others,bun,b.u.n
+Others,glycosylated haemoglobin,hbalc ..
+Others,ldl,"ldl cholesterol, ldl - c"
+Others,ketone,urine ketone bodies
+Others,rbc,wbc ( white blood cell )
+Others,red blood cell count,total rbc count :
+Others,gamma-glutamyl transferase (ggt),serum gamma glutamyl
+Others,thyroid stimulating hormone (tsh),teh [ thyroid stimulating
+Others,acetone,urine ketones ( acetone )
+Others,phosphorous,inorganic phosphorus
+Others,others,comment on wbc
+Others,cholesterol/hdl ratio,"ratio of tot - cholestro / hdl,"
+Others,alkaline phosphatase,alkaline
+Others,s.g.p.t,s.g.p.t
+Others,cholesterol/hdl ratio,chol / hdl chol ratio
+Others,platelet morphology,* platelet morphology
+Others,hemoglobin,hemoglobin
+Others,chloride,ci +
+Others,cholesterol/hdl ratio,s.cholesterol / hdl ratio
+Others,urobilinogen,* urobilinogen
+Others,others,vitamin d total ( 25 hydroxy
+Others,fasting blood sugar,b.sugar fasting
+Others,chloride,s. chloride
+Others,colour,color
+Others,cholesterol,s. cholesterol
+Others,bun/creatinine ratio,serum bun / creatinine ratio
+Others,esr,esr
+Others,monocyte count,monocyte
+Others,chol/ hdl cholesterol ratio,chol / hdl cholesterol ratio
+Others,free thyroxine,serum ft4
+Others,absolute lymphocyte count,absolute lymphocytes count
+Others,platelet morphology,wbc morphology
+Others,total protein,protein total
+Others,total cholesterol/hdl ratio,total cholesterol / hdl ratio
+Others,bun/creatinine ratio,bun : creatinine ratio
+Others,rbc,rbc count ( automated )
+Others,rdw,red cell distribution width - sd ( rdw - sd )
+Others,epithelial cells,squamous epithelial cells
+Others,yeast cells,east cells
+Others,casts,castes ....
+Others,alanine aminotransferase,sgpt / alt : -
+Others,alkaline phosphatase,alk phosphate
+Others,total t4,thyroxine ( t4 )
+Others,serum bilirubin total,serum bilirubin - total
+Others,urobilinogen,urine - urobilinogen
+Others,t4,"t4 ( total ) by elfa,serum"
+Others,hdl,hdl - c :
+Others,other,specimen
+Others,mcv,mean corpuscular valume ( mcv )
+Others,mpv,mpv :
+Others,mch,m.c.h. :
+Others,yeast cells,yeast budding cells
+Others,glycosylated haemoglobin,( hba1c ) glycosylated haemoglobin :
+Others,glucose,glucose
+Others,total leucocyte count,total leucocytes ( wbc )
+Others,mch,mean cell haemoglobin
+Others,t3,"triiodothyronine, total ( tt3 )"
+Others,ketone,* ketone bodies
+Others,sodium,sr. sodium
+Others,others,25 oh vitamin d total
+Others,ast/alt ratio,sgot / sgpt ratio
+Others,mchc,mchc =
+Others,wbc morphology,* wbc morphology
+Others,hdl/ldl,"hdl / ldl, hdl - c"
+Others,others,malarial parasites
+Others,vldl,serum v.l.d.l cholesterol
+Others,mchc,m c h ( mean corp hb )
+Others,t4,"free t4, serum"
+Others,thyroid stimulating hormone,thyroid stimulating hormone
+Others,aspartate aminotransferase,aspartate
+Others,blood urea,bi. urea
+Others,mpv,* mean platelet volume ( mpv )
+Others,mch,"mch """
+Others,mchc,m chc
+Others,bile salt,* bile salts
+Others,transparency,transparancy
+Others,potassium,"potassium,"
+Others,bicarbonate,bicorbonate
+Others,urine sugar,sugar ....
+Others,casts,cast *
+Others,cholesterol,total cholesterol / hdl
+Others,urine for nicotine,urine nicotine
+Others,aspartate aminotransferase,ast [ sgot ]
+Others,t3,t 3 ( tri iodothyronine )

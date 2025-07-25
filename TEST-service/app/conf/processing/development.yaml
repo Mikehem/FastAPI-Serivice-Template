@@ -1,0 +1,11 @@
+Parallelization:
+  Job_count: 5
+  backend: "threading" # threading | multiprocessing | loky
+QC:
+  default: True
+
+Alert:
+  To: ["shreyas.kaushik@xxx.in"]
+  CC: []
+  BCC: []
+  Subject: "SLRD Service Alert"

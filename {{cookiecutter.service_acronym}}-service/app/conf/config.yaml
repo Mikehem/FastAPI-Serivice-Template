@@ -1,0 +1,41 @@
+APPLICATION: {{cookiecutter.service_title}}
+APPLICATION_ACRONYM: {{cookiecutter.service_acronym}}
+VERSION: 1.0.0
+DESCRIPTION: {{cookiecutter.service_description}}
+COPYRIGHT: "Copyright(C), {{cookiecutter.devleopment_year}} xxx Private Limited. All Rights Reserved. Unauthorized access to this system is forbidden and will be prosecuted by law. By accessing this system, you agree that your actions may be monitored if unauthorized usage is suspected."
+TERMS_OF_SERVICE: https://www.xxx.in/terms.html
+PRVACY_POLICY: https://www.xxx.in/privacy.html
+BACKEND_CORS_ORIGINS: []
+Logger:
+  app:
+      Level: INFO #c capital - INFO|WARN|DEBUG|ERROR|CRITICAL
+      Format: "%(asctime)s-%(process)d-%(levelname)s-%(message)s"
+      OTELFormat: "%(asctime)s-%(process)d-%(levelname)s-trace_id=%(otelTraceID)s-span_id=%(otelSpanID)s-%(message)s"
+      Filename: "./logs/{{cookiecutter.service_acronym}}_app.log"
+      MaxBytes: 0
+      BackupCount: 0
+  main:
+    Level: INFO #c capital - INFO|WARN|DEBUG|ERROR|CRITICAL
+    Format: "%(asctime)s-%(process)d-%(levelname)s-%(message)s"
+    OTELFormat: "%(asctime)s-%(process)d-%(levelname)s-trace_id=%(otelTraceID)s-span_id=%(otelSpanID)s-%(message)s"
+    Filename: "./logs/{{cookiecutter.service_acronym}}_main.log"
+    MaxBytes: 0
+    BackupCount: 0
+  run:
+    Level: INFO #c capital - INFO|WARN|DEBUG|ERROR|CRITICAL
+    Format: "%(asctime)s-%(process)d-%(levelname)s-%(message)s"
+    OTELFormat: "%(asctime)s-%(process)d-%(levelname)s-trace_id=%(otelTraceID)s-span_id=%(otelSpanID)s-%(message)s"
+    Filename: "./logs/{{cookiecutter.service_acronym}}_run.log"
+    MaxBytes: 0
+    BackupCount: 0
+Filters:
+  # In a 2 stage process classify + extract only the filtered element goes for extraction
+  classifier: ["NAME-OF-LABEL"] 
+# Add any global configuration values here
+#
+# Environment specific values go in the env directory
+defaults:
+  - _self_
+  - store: development
+  - processing: development
+  - models: development

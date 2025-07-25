@@ -1,0 +1,13 @@
+{
+    "service_title": "Test Template Service",
+    "service_name": "test_template",
+    "service_description": "Provide a short description,",
+    "service_acronym": "TEST",
+    "service_type": ["Classifer", "Digitizer"],
+    "service_input": ["document", "line"],
+    "service_api_path": "/IHXAI/TEST/",
+    "configuration_key": "KEY",
+    "configuration_secret": "Secret",
+    "python_version": ["3.7", "3.8", "3.10"],
+    "devleopment_year": "2023"
+}

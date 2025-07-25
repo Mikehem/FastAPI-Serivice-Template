@@ -1,0 +1,118 @@
+{
+  "Transaction_Info": {
+    "Transaction_ID": "20221216120940613918",
+    "Received_TS": "2022-12-16T12:09:40.613918",
+    "Status": "QC-Pending"
+  },
+  "Digitization": {
+    "Digitization_Time": 23.87574529647827,
+    "Files": [
+      {
+        "FileIDx": "1",
+        "Filename": "NBAHC0161135_7.pdf",
+        "Total_Pages": 1,
+        "Total_Processed_Pages": 1,
+        "S3": "",
+        "Processed_TS": "2022-12-16T12:10:04.489644",
+        "File_Processing_Time": 23.572455644607544,
+        "Pages": [
+          {
+            "PageIDx": 1,
+            "Classification": {
+              "Classification_Time": 20.866100788116455,
+              "L1": {
+                "L1-Label": "Lab_Report",
+                "L1-Label-Confidence": 100,
+                "L1-Label-NHI": false
+              },
+              "L2": {
+                "L1-Label": null,
+                "L1-Label-Confidence": null,
+                "L1-Label-NHI": null
+              },
+              "Model_Version": "1.0.0"
+            },
+            "S3": "",
+            "Page_Processing_Time": 23.571585416793823,
+            "Extraction": {
+              "Model_Version": "2.0.0",
+              "Extraction_Time": 2.7048988342285156,
+              "Data": {
+                "tests": [
+                  {
+                    "Line_id": 11,
+                    "Test_name": "Total Cholesterol",
+                    "Test_value": "202",
+                    "Units": "mg / dl",
+                    "Interpretation_ranges": "Desirable : < 200, Borderline : 200 - 239, High : > / = 240"
+                  },
+                  {
+                    "Line_id": 14,
+                    "Test_name": "Serum Triglycerides",
+                    "Test_value": "115",
+                    "Units": "mg / dl",
+                    "Interpretation_ranges": "Desirable : < 150, Borderline high : 150 - 199, High : 200 - 499, Very high : > 500"
+                  },
+                  {
+                    "Line_id": 18,
+                    "Test_name": "Serum HDL Cholesterol",
+                    "Test_value": "52.1",
+                    "Units": "mg / dl",
+                    "Interpretation_ranges": "40 - 60"
+                  },
+                  {
+                    "Line_id": 20,
+                    "Test_name": "Serum LDL Cholesterol",
+                    "Test_value": "125.3",
+                    "Units": "mg / dl",
+                    "Interpretation_ranges": "Optimal : < 100, near / above Optimal : 100 -, 129, Borderline High : 130 - 159, High : 160 - 189, Very High : > / = 190"
+                  },
+                  {
+                    "Line_id": 26,
+                    "Test_name": "Serum VLDL Cholesterol",
+                    "Test_value": "23.1",
+                    "Units": "mg / dl",
+                    "Interpretation_ranges": "06 - 30"
+                  },
+                  {
+                    "Line_id": 28,
+                    "Test_name": "Total CHOL / HDL Cholesterol Ratio",
+                    "Test_value": "3.88",
+                    "Units": "Ratio",
+                    "Interpretation_ranges": "3.30 - 4.40"
+                  },
+                  {
+                    "Line_id": 30,
+                    "Test_name": "LDL / HDL Cholesterol Ratio",
+                    "Test_value": "2.40",
+                    "Units": "Ratio",
+                    "Interpretation_ranges": "Desirable / Low Risk : 0.5 - 3.0, Line / Moderate Risk : 3.0 - 6.0, Elevated / High Risk : > 6.0"
+                  },
+                  {
+                    "Line_id": 33,
+                    "Test_name": "HDL / LDL Cholesterol Ratio",
+                    "Test_value": "0.42",
+                    "Units": "Ratio",
+                    "Interpretation_ranges": "Optimal - > 0.4, Moderate - 0.4 to 0.3, High - < 0.3"
+                  },
+                  {
+                    "Line_id": 36,
+                    "Test_name": "Non - HDL Cholesterol",
+                    "Test_value": "150.3",
+                    "Units": "mg / dl",
+                    "Interpretation_ranges": "0.0 - 160.0"
+                  }
+                ],
+                "metadata": {
+                  "date": "2022-12-16"
+                }
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "QC": null,
+  "Review": null
+}

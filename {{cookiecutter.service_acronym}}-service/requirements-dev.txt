@@ -1,0 +1,8 @@
+ipython
+ipykernel
+pudb
+cookiecutter
+prospector[with_everything]
+locust==2.10.1
+bandit
+commitizen

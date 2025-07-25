@@ -1,0 +1,6 @@
+pudb
+cookiecutter
+prospector[with_everything]
+locust
+bandit
+commitizen

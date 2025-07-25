@@ -1,0 +1,39 @@
+MODE: development
+mongodb:
+  MongoClient: "mongodb+srv://<username>:<password>@<db_server>/?retryWrites=true&w=majority"
+  db: "xxx_LRD"
+  url_prefix: "mongodb://"
+  username: "xxxaiadmin"
+  password: ""
+  server: "20.204.32.147:8020/"
+  url_postfix: "?retryWrites=true&w=majority"
+  collection:
+    report: "reports"
+    clients: "clients"
+    transaction: "transactions"
+    dispatch: "dispatches"
+    schedule: "schedules"
+postgresql:
+  db_url: "http://0.0.0.0/5432"
+  db_username: ""
+  db_password: ""
+Object_Store:
+  default: "S3"
+  S3:
+    #url: "s3://xxx-dev/folder"
+    Bucket: "xxx-TEST-dev"
+    Access_Key: "KEY"
+    Secret_Key: "Secret"
+  Local:
+    Path_Prefix: "data/"
+SQS:
+  default:
+    Queue: "https://sqs.ap-south-1.amazonaws.com/602507601020/testTEST.fifo"
+    Region: "ap-south-1"
+    Access_Key: "KEY"
+    Secret_Key: "Secret"
+
+  Deafult-1:
+
+paths:
+  data: "app/controllers/references/files"

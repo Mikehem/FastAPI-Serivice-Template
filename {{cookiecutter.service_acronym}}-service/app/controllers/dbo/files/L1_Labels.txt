@@ -1,0 +1,8 @@
+Room and Nursing Charges
+ICU Charges
+OT Charges
+Medicine And Consumable Charges
+Professional Fee Charges
+Investigation Charges
+Ambulance Charges
+Miscellaneous Charges
