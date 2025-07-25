@@ -1,12 +1,12 @@
-IHX Service Template [Base]
+FastAPI Service Template [Base]
 ===========================
-This is a cookiecutter boilerplate based template for building FastAPI Rest Services for IHX AI solutions.
+This is a cookiecutter boilerplate based template for building FastAPI Rest Services for XXX AI solutions.
 The template provides a boilerplate code to quickly begin building and deploying RestAPIs. They have multiple integrated functionalites such as Configuration management (Hydra), Database Storage (Mongo), OCR (Azure, Pytesseract)
 
 [USAGE]
 1. Generate the template
 ```python
-cookiecutter https://github.com/IHX-AI/ihx-service-template-base.git
+cookiecutter https://github.com/XXX-AI/XXX-service-template-base.git
 ```
 2. Fill in the details of the project.
 3. Make configuration changes in: app/conf/config.yaml and its subfolder.
